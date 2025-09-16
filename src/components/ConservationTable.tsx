@@ -26,18 +26,12 @@ const endangermentColors = {
 const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
   return (
     <div className="w-full max-w-7xl mx-auto space-y-6">
-      <Card className="bg-black border-4 border-conservation-green shadow-[8px_8px_0px_0px] shadow-conservation-green/50 relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10" style={{
-          backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 0, 0.1) 2px, rgba(0, 255, 0, 0.1) 4px)'
-        }}></div>
-        <CardHeader className="relative z-10 bg-gradient-to-r from-conservation-green/20 to-conservation-orange/20">
-          <CardTitle className="flex items-center gap-2 text-2xl font-digital text-conservation-green">
-            <CheckCircle2 className="w-6 h-6 text-conservation-green animate-pulse" />
+      <Card className="bg-black border-2 border-[#0015ff] relative overflow-hidden">
+        <CardHeader className="relative z-10 bg-[#0015ff]/10">
+          <CardTitle className="flex items-center gap-2 text-lg font-digital text-[#0015ff]">
+            <CheckCircle2 className="w-4 h-4 text-[#0015ff]" />
             FLORA.DATA_{postcode}
           </CardTitle>
-          <p className="text-conservation-green/70 font-mono-digital text-sm">
-            &gt;&gt;&gt; SPECIES_CONSERVATION_PROTOCOL.ACTIVE
-          </p>
         </CardHeader>
       </Card>
 

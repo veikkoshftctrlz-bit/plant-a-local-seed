@@ -38,12 +38,11 @@ const Index = () => {
           <header className="container mx-auto px-4 py-6">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <Leaf className="w-8 h-8 text-conservation-green" />
                 <h1 className="text-2xl font-bold text-foreground font-digital">OtherLife</h1>
               </div>
               <button 
                 onClick={resetSearch} 
-                className="bg-black border-2 border-conservation-green text-conservation-green font-digital px-6 py-3 hover:bg-conservation-green hover:text-black transition-all duration-300 shadow-[4px_4px_0px_0px] shadow-conservation-green/30 hover:shadow-[2px_2px_0px_0px] hover:shadow-conservation-green/50 active:translate-x-1 active:translate-y-1"
+                className="bg-black border-2 border-[#0015ff] text-[#0015ff] font-digital px-6 py-3 hover:bg-[#0015ff] hover:text-black transition-all duration-300"
               >
                 [NEW_SEARCH]
               </button>
