@@ -55,7 +55,7 @@ const Index = () => {
         </header>
 
         {/* Main Content */}
-        <main className="flex-1 flex items-center justify-center px-4 bg-[#00ff22]">
+        <main className="flex-1 flex items-center justify-center px-4 bg-[#0015ff]">
           <div className="text-center space-y-8 max-w-4xl">
             {/* Hero Text */}
             <div className="space-y-4">
