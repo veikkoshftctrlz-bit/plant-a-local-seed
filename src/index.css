@@ -8,33 +8,46 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Nature-inspired conservation palette */
+    --background: 45 15% 97%;
+    --foreground: 140 30% 15%;
 
     --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card-foreground: 140 30% 15%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover-foreground: 140 30% 15%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Forest green primary */
+    --primary: 140 45% 25%;
+    --primary-foreground: 45 15% 97%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    /* Earth tone secondary */
+    --secondary: 30 20% 88%;
+    --secondary-foreground: 140 30% 15%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 45 10% 92%;
+    --muted-foreground: 140 15% 45%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    /* Conservation orange accent */
+    --accent: 25 85% 65%;
+    --accent-foreground: 45 15% 97%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    /* Endangered red */
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 45 15% 97%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 45 20% 85%;
+    --input: 45 20% 85%;
+    --ring: 140 45% 25%;
+
+    /* Conservation-specific colors */
+    --conservation-green: 140 60% 35%;
+    --conservation-orange: 25 85% 65%;
+    --earth-brown: 30 35% 45%;
+    --nature-gradient: linear-gradient(135deg, hsl(140 60% 35%), hsl(140 45% 25%));
+    --sunset-gradient: linear-gradient(135deg, hsl(25 85% 65%), hsl(15 80% 55%));
+    --earth-gradient: linear-gradient(180deg, hsl(45 15% 97%), hsl(45 10% 92%));
 
     --radius: 0.5rem;
 
@@ -56,33 +69,40 @@ All colors MUST be HSL.
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
+    --background: 140 15% 8%;
+    --foreground: 45 15% 92%;
 
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
+    --card: 140 20% 12%;
+    --card-foreground: 45 15% 92%;
 
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 140 20% 12%;
+    --popover-foreground: 45 15% 92%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 140 50% 65%;
+    --primary-foreground: 140 15% 8%;
 
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 140 10% 18%;
+    --secondary-foreground: 45 15% 92%;
 
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
+    --muted: 140 10% 18%;
+    --muted-foreground: 45 10% 65%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 25 85% 65%;
+    --accent-foreground: 140 15% 8%;
 
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 45 15% 92%;
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
+    --border: 140 15% 20%;
+    --input: 140 15% 20%;
+    --ring: 140 50% 65%;
+
+    --conservation-green: 140 55% 45%;
+    --conservation-orange: 25 85% 65%;
+    --earth-brown: 30 25% 35%;
+    --nature-gradient: linear-gradient(135deg, hsl(140 55% 45%), hsl(140 50% 35%));
+    --sunset-gradient: linear-gradient(135deg, hsl(25 85% 65%), hsl(15 80% 55%));
+    --earth-gradient: linear-gradient(180deg, hsl(140 15% 8%), hsl(140 10% 12%));
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
