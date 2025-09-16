@@ -58,12 +58,8 @@ const Index = () => {
       </div>;
   }
   return <div className="min-h-screen relative overflow-hidden">
-      {/* Hero Background */}
-      <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{
-      backgroundImage: `url(${heroImage})`
-    }}>
-        <div className="absolute inset-0 bg-gradient-to-br from-background/95 via-background/85 to-conservation-green/20" />
-      </div>
+      {/* Solid Blue Background (no white box/overlay) */}
+      <div className="absolute inset-0 bg-[#0015ff]" />
 
       {/* Content */}
       <div className="relative z-10 min-h-screen flex flex-col">
