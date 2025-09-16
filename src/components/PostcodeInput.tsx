@@ -16,11 +16,28 @@ const PostcodeInput = ({
       onPostcodeSubmit(postcode.trim());
     }
   };
-  return <Card className="w-full max-w-md mx-auto bg-black border-4 border-conservation-green shadow-[8px_8px_0px_0px] shadow-conservation-green/50 relative overflow-hidden">
-      <div className="absolute inset-0 opacity-10" style={{
-      backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 0, 0.1) 2px, rgba(0, 255, 0, 0.1) 4px)'
-    }}></div>
-      <CardContent className="p-8 relative z-10 font-digital rounded-none">
+  return <div className="w-full max-w-md mx-auto relative">
+      {/* Checkerboard top border */}
+      <div className="h-6 w-full mb-4" style={{
+        backgroundImage: `
+          conic-gradient(from 90deg at 50% 50%, 
+            hsl(var(--conservation-green)) 0deg 90deg, 
+            transparent 90deg 180deg, 
+            hsl(var(--conservation-green)) 180deg 270deg, 
+            transparent 270deg 360deg
+          )
+        `,
+        backgroundSize: '16px 16px'
+      }}></div>
+      
+      <Card className="bg-gradient-to-b from-gray-300 to-amber-800 border-8 border-blue-600 shadow-none relative overflow-hidden" style={{
+        borderStyle: 'solid',
+        borderImageSource: 'repeating-linear-gradient(90deg, #2563eb 0px, #2563eb 8px, transparent 8px, transparent 16px)',
+        borderImageSlice: '8 fill'
+      }}>
+        {/* Inner container with earth texture */}
+        <div className="bg-gradient-to-b from-amber-100 to-amber-900 border-4 border-blue-600 m-2">
+          <CardContent className="p-6 relative z-10 font-digital bg-gradient-to-b from-amber-50/80 to-amber-800/80">
         
         
         <div className="text-center mb-6">
@@ -38,7 +55,9 @@ const PostcodeInput = ({
             [EXECUTE_SCAN]
           </Button>
         </form>
-      </CardContent>
-    </Card>;
+          </CardContent>
+        </div>
+      </Card>
+    </div>;
 };
 export default PostcodeInput;
