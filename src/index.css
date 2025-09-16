@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Nature-inspired conservation palette */
+    --background: 45 15% 97%;
+    --foreground: 140 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 140 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 140 30% 15%;
+
+    /* Forest green primary */
+    --primary: 140 45% 25%;
+    --primary-foreground: 45 15% 97%;
+
+    /* Earth tone secondary */
+    --secondary: 30 20% 88%;
+    --secondary-foreground: 140 30% 15%;
+
+    --muted: 45 10% 92%;
+    --muted-foreground: 140 15% 45%;
+
+    /* Conservation orange accent */
+    --accent: 25 85% 65%;
+    --accent-foreground: 45 15% 97%;
+
+    /* Endangered red */
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 45 15% 97%;
+
+    --border: 45 20% 85%;
+    --input: 45 20% 85%;
+    --ring: 140 45% 25%;
+
+    /* Conservation-specific colors */
+    --conservation-green: 140 60% 35%;
+    --conservation-orange: 25 85% 65%;
+    --earth-brown: 30 35% 45%;
+    --nature-gradient: linear-gradient(135deg, hsl(140 60% 35%), hsl(140 45% 25%));
+    --sunset-gradient: linear-gradient(135deg, hsl(25 85% 65%), hsl(15 80% 55%));
+    --earth-gradient: linear-gradient(180deg, hsl(45 15% 97%), hsl(45 10% 92%));
+
+    --radius: 0.5rem;
+
+    /* Digital/Pixel style effects */
+    --pixel-border: 4px solid;
+    --digital-glow: 0 0 20px;
+    --scan-lines: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 255, 0, 0.03) 2px, rgba(0, 255, 0, 0.03) 4px);
+    --pixel-shadow: 8px 8px 0px;
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 140 15% 8%;
+    --foreground: 45 15% 92%;
+
+    --card: 140 20% 12%;
+    --card-foreground: 45 15% 92%;
+
+    --popover: 140 20% 12%;
+    --popover-foreground: 45 15% 92%;
+
+    --primary: 140 50% 65%;
+    --primary-foreground: 140 15% 8%;
+
+    --secondary: 140 10% 18%;
+    --secondary-foreground: 45 15% 92%;
+
+    --muted: 140 10% 18%;
+    --muted-foreground: 45 10% 65%;
+
+    --accent: 25 85% 65%;
+    --accent-foreground: 140 15% 8%;
+
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 45 15% 92%;
+
+    --border: 140 15% 20%;
+    --input: 140 15% 20%;
+    --ring: 140 50% 65%;
+
+    --conservation-green: 140 55% 45%;
+    --conservation-orange: 25 85% 65%;
+    --earth-brown: 30 25% 35%;
+    --nature-gradient: linear-gradient(135deg, hsl(140 55% 45%), hsl(140 50% 35%));
+    --sunset-gradient: linear-gradient(135deg, hsl(25 85% 65%), hsl(15 80% 55%));
+    --earth-gradient: linear-gradient(180deg, hsl(140 15% 8%), hsl(140 10% 12%));
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
