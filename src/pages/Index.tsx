@@ -70,8 +70,8 @@ const Index = () => {
         {/* Header */}
         <header className="container mx-auto px-4 py-8">
           <div className="flex items-center gap-3 justify-center">
-            <Leaf className="w-8 h-8 text-conservation-green" />
-            <h1 className="text-2xl font-bold text-foreground">FloraGuard</h1>
+            <Leaf className="w-8 h-8 text-white" />
+            <h1 className="text-2xl font-bold text-white">FloraGuard</h1>
           </div>
         </header>
 
