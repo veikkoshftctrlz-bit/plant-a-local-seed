@@ -39,7 +39,7 @@ const Index = () => {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <Leaf className="w-8 h-8 text-conservation-green" />
-                <h1 className="text-2xl font-bold text-foreground font-digital">FloraGuard</h1>
+                <h1 className="text-2xl font-bold text-foreground font-digital">OtherLife</h1>
               </div>
               <button 
                 onClick={resetSearch} 
@@ -67,7 +67,7 @@ const Index = () => {
         <header className="container mx-auto px-4 py-8">
           <div className="flex items-center gap-3 justify-center">
             <Leaf className="w-8 h-8 text-white" />
-            <h1 className="text-2xl font-bold text-white">FloraGuard</h1>
+            <h1 className="text-2xl font-bold text-white">OtherLife</h1>
           </div>
         </header>
 
