@@ -24,15 +24,36 @@ const Index = () => {
     setConservationData([]);
   };
   if (postcode && !isLoading) {
-    return <div className="min-h-screen bg-gradient-to-br from-background via-secondary/10 to-conservation-green/5">
-        <div className="container mx-auto px-4 py-8">
-          <div className="mb-8 text-center">
-            <button onClick={resetSearch} className="inline-flex items-center gap-2 text-conservation-green hover:text-conservation-green/80 transition-colors">
-              <Leaf className="w-5 h-5" />
-              ← Search Another Location
-            </button>
-          </div>
-          <ConservationTable postcode={postcode} data={conservationData} />
+    return <div className="min-h-screen relative overflow-hidden">
+        {/* Hero Background */}
+        <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{
+        backgroundImage: `url(${heroImage})`
+      }}>
+          <div className="absolute inset-0 bg-gradient-to-br from-background/95 via-background/85 to-conservation-green/20" />
+        </div>
+
+        {/* Content */}
+        <div className="relative z-10 min-h-screen">
+          {/* Header */}
+          <header className="container mx-auto px-4 py-6">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <Leaf className="w-8 h-8 text-conservation-green" />
+                <h1 className="text-2xl font-bold text-foreground font-digital">FloraGuard</h1>
+              </div>
+              <button 
+                onClick={resetSearch} 
+                className="bg-black border-2 border-conservation-green text-conservation-green font-digital px-6 py-3 hover:bg-conservation-green hover:text-black transition-all duration-300 shadow-[4px_4px_0px_0px] shadow-conservation-green/30 hover:shadow-[2px_2px_0px_0px] hover:shadow-conservation-green/50 active:translate-x-1 active:translate-y-1"
+              >
+                [NEW_SEARCH]
+              </button>
+            </div>
+          </header>
+
+          {/* Main Content */}
+          <main className="container mx-auto px-4 py-8">
+            <ConservationTable postcode={postcode} data={conservationData} />
+          </main>
         </div>
       </div>;
   }
