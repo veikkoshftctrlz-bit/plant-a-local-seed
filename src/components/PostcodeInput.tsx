@@ -42,7 +42,7 @@ const PostcodeInput = ({
         
         <div className="text-center mb-6">
           <h2 className="text-2xl font-bold text-conservation-green font-digital tracking-wider mb-2 animate-pulse">FLORA.GUARD</h2>
-          <div className="text-conservation-green/70 font-mono-digital text-sm">&gt;&gt;&gt; SYSTEM INITIALIZED</div>
+          <div className="text-conservation-green/70 font-mono-digital text-sm">&gt;&gt;&gt; SYSTEM INITIALISED</div>
         </div>
         
         <form onSubmit={handleSubmit} className="space-y-6">
