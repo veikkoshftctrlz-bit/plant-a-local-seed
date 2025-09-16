@@ -41,71 +41,59 @@ const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
         </CardHeader>
       </Card>
 
-      <div className="grid gap-6">
+      {/* Minimal table-like list with white rows and thin separators */}
+      <div className="w-full bg-white text-black">
+        {/* Header */}
+        <div className="grid grid-cols-5 text-xs border-b border-black/20 font-digital">
+          <div className="p-3">PLANT</div>
+          <div className="p-3">ENDANGERED SPECIES</div>
+          <div className="p-3">LEVEL</div>
+          <div className="p-3">ECOLOGICAL BENEFITS</div>
+          <div className="p-3 text-right">LINK</div>
+        </div>
+
+        {/* Rows */}
         {data.map((item, index) => (
-          <Card key={index} className="bg-black border-2 border-conservation-green/50 shadow-[4px_4px_0px_0px] shadow-conservation-green/30 hover:shadow-[6px_6px_0px_0px] hover:shadow-conservation-green/50 transition-all relative overflow-hidden">
-            <div className="absolute inset-0 opacity-5" style={{
-              backgroundImage: 'repeating-linear-gradient(90deg, transparent, transparent 4px, rgba(0, 255, 0, 0.1) 4px, rgba(0, 255, 0, 0.1) 8px)'
-            }}></div>
-            <CardContent className="p-6 relative z-10">
-              <div className="grid md:grid-cols-5 gap-4 items-center">
-                {/* Plant */}
-                <div className="md:col-span-1">
-                  <h3 className="font-bold text-lg text-conservation-green mb-1 font-digital">
-                    {item.plant.toUpperCase()}
-                  </h3>
-                  <p className="text-sm text-conservation-green/60 font-mono-digital">[PLANT_TYPE]</p>
-                </div>
+          <div
+            key={index}
+            className="grid grid-cols-5 items-center border-b border-black/20 hover:bg-yellow-300 transition-colors"
+          >
+            {/* Plant */}
+            <div className="p-4 font-digital text-sm">{item.plant}</div>
 
-                {/* Endangered Species */}
-                <div className="md:col-span-1">
-                  <p className="font-semibold text-conservation-green mb-1 font-digital">{item.endangeredSpecies.toUpperCase()}</p>
-                  <p className="text-sm text-conservation-green/60 font-mono-digital">[TARGET_SPECIES]</p>
-                </div>
+            {/* Endangered Species */}
+            <div className="p-4 font-digital text-sm">{item.endangeredSpecies}</div>
 
-                {/* Endangerment Level */}
-                <div className="md:col-span-1">
-                  <Badge 
-                    variant="secondary" 
-                    className={`
-                      ${item.endangermentLevel === 'Critical' ? 'bg-red-900/20 text-red-400 border-red-400/30' : ''}
-                      ${item.endangermentLevel === 'Endangered' ? 'bg-orange-900/20 text-orange-400 border-orange-400/30' : ''}
-                      ${item.endangermentLevel === 'Vulnerable' ? 'bg-yellow-900/20 text-yellow-400 border-yellow-400/30' : ''}
-                      ${item.endangermentLevel === 'Near Threatened' ? 'bg-conservation-green/20 text-conservation-green border-conservation-green/30' : ''}
-                      flex items-center gap-1 font-digital text-xs
-                    `}
-                  >
-                    <AlertTriangle className="w-3 h-3 animate-pulse" />
-                    {item.endangermentLevel.toUpperCase()}
-                  </Badge>
-                </div>
+            {/* Endangerment Level */}
+            <div className="p-4">
+              <Badge
+                variant="secondary"
+                className={`
+                  ${item.endangermentLevel === 'Critical' ? 'bg-red-200 text-red-900 border-red-400' : ''}
+                  ${item.endangermentLevel === 'Endangered' ? 'bg-orange-200 text-orange-900 border-orange-400' : ''}
+                  ${item.endangermentLevel === 'Vulnerable' ? 'bg-yellow-200 text-yellow-900 border-yellow-400' : ''}
+                  ${item.endangermentLevel === 'Near Threatened' ? 'bg-green-200 text-green-900 border-green-400' : ''}
+                  font-digital text-[10px] border
+                `}
+              >
+                <AlertTriangle className="w-3 h-3" />
+                {item.endangermentLevel}
+              </Badge>
+            </div>
 
-                {/* Ecological Benefits */}
-                <div className="md:col-span-1">
-                  <p className="text-sm text-conservation-green/80 font-mono-digital">{item.ecologicalBenefits}</p>
-                </div>
+            {/* Ecological Benefits */}
+            <div className="p-4 text-sm">{item.ecologicalBenefits}</div>
 
-                {/* Purchase Button */}
-                <div className="md:col-span-1">
-                  <Button 
-                    asChild 
-                    variant="outline" 
-                    className="w-full bg-black border-2 border-conservation-green text-conservation-green font-digital text-xs hover:bg-conservation-green hover:text-black transition-all duration-300 shadow-[2px_2px_0px_0px] shadow-conservation-green/30 hover:shadow-[1px_1px_0px_0px] hover:shadow-conservation-green/50 active:translate-x-0.5 active:translate-y-0.5"
-                  >
-                    <a 
-                      href={item.purchaseUrl} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="flex items-center gap-2"
-                    >
-                      [BUY_SEEDS]
-                      <ExternalLink className="w-3 h-3" />
-                    </a>
-                  </Button>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
+            {/* Purchase Button */}
+            <div className="p-4 flex justify-end">
+              <Button asChild variant="outline" className="border border-black text-black bg-white hover:bg-black hover:text-white font-digital text-xs">
+                <a href={item.purchaseUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                  OPEN
+                  <ExternalLink className="w-3 h-3" />
+                </a>
+              </Button>
+            </div>
+          </div>
         ))}
       </div>
 
