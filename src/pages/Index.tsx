@@ -25,12 +25,8 @@ const Index = () => {
   };
   if (postcode && !isLoading) {
     return <div className="min-h-screen relative overflow-hidden">
-        {/* Hero Background */}
-        <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{
-        backgroundImage: `url(${heroImage})`
-      }}>
-          <div className="absolute inset-0 bg-gradient-to-br from-background/95 via-background/85 to-conservation-green/20" />
-        </div>
+        {/* Blue Background */}
+        <div className="absolute inset-0 bg-[#0015ff]" />
 
         {/* Content */}
         <div className="relative z-10 min-h-screen">
@@ -44,7 +40,7 @@ const Index = () => {
                 onClick={resetSearch} 
                 className="bg-black border-2 border-[#0015ff] text-[#0015ff] font-digital px-6 py-3 hover:bg-[#0015ff] hover:text-black transition-all duration-300"
               >
-                [NEW_SEARCH]
+                [{postcode}]
               </button>
             </div>
           </header>

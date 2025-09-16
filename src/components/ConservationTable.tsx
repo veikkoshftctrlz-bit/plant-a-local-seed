@@ -26,10 +26,10 @@ const endangermentColors = {
 const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
   return (
     <div className="w-full max-w-7xl mx-auto space-y-6">
-      <Card className="bg-black border-2 border-[#0015ff] relative overflow-hidden">
-        <CardHeader className="relative z-10 bg-[#0015ff]/10">
-          <CardTitle className="flex items-center gap-2 text-lg font-digital text-[#0015ff]">
-            <CheckCircle2 className="w-4 h-4 text-[#0015ff]" />
+      <Card className="bg-white border-2 border-black relative overflow-hidden">
+        <CardHeader className="relative z-10 bg-white">
+          <CardTitle className="flex items-center gap-2 text-lg font-digital text-red-900">
+            <CheckCircle2 className="w-4 h-4 text-red-900" />
             FLORA.DATA_{postcode}
           </CardTitle>
         </CardHeader>
@@ -38,7 +38,7 @@ const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
       {/* Minimal table-like list with white rows and thin separators */}
       <div className="w-full bg-white text-black">
         {/* Header */}
-        <div className="grid grid-cols-5 text-xs border-b border-black/20 font-digital">
+        <div className="grid grid-cols-5 text-xs border-b border-black font-digital text-red-900">
           <div className="p-3">PLANT</div>
           <div className="p-3">ENDANGERED SPECIES</div>
           <div className="p-3">LEVEL</div>
@@ -50,13 +50,13 @@ const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
         {data.map((item, index) => (
           <div
             key={index}
-            className="grid grid-cols-5 items-center border-b border-black/20 hover:bg-yellow-300 transition-colors"
+            className="grid grid-cols-5 items-center border-b border-black hover:bg-yellow-300 transition-colors"
           >
             {/* Plant */}
-            <div className="p-4 font-digital text-sm">{item.plant}</div>
+            <div className="p-4 font-digital text-sm text-red-900">{item.plant}</div>
 
             {/* Endangered Species */}
-            <div className="p-4 font-digital text-sm">{item.endangeredSpecies}</div>
+            <div className="p-4 font-digital text-sm text-red-900">{item.endangeredSpecies}</div>
 
             {/* Endangerment Level */}
             <div className="p-4">
@@ -76,11 +76,11 @@ const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
             </div>
 
             {/* Ecological Benefits */}
-            <div className="p-4 text-sm">{item.ecologicalBenefits}</div>
+            <div className="p-4 text-sm text-red-900">{item.ecologicalBenefits}</div>
 
             {/* Purchase Button */}
             <div className="p-4 flex justify-end">
-              <Button asChild variant="outline" className="border border-black text-black bg-white hover:bg-black hover:text-white font-digital text-xs">
+              <Button asChild variant="outline" className="border border-black text-red-900 bg-white hover:bg-red-900 hover:text-white font-digital text-xs">
                 <a href={item.purchaseUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                   OPEN
                   <ExternalLink className="w-3 h-3" />
