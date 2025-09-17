@@ -16,6 +16,7 @@ import brandenburgData from "./brandenburg.json";
 import bremenData from "./bremen.json";
 import hamburgData from "./hamburg.json";
 import niedersachsenData from "./niedersachsen.json";
+import mecklenburgVorpommernData from "./mecklenburg-vorpommern.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -62,6 +63,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Niedersachsen
   if (state.toLowerCase().includes("niedersachsen") || state.toLowerCase().includes("lower saxony")) {
     return niedersachsenData as ConservationData[];
+  }
+  
+  // Return real data for Mecklenburg-Vorpommern
+  if (state.toLowerCase().includes("mecklenburg") || state.toLowerCase().includes("vorpommern") || state.toLowerCase().includes("mecklenburg-vorpommern")) {
+    return mecklenburgVorpommernData as ConservationData[];
   }
   
   // Mock data for other states
