@@ -1,0 +1,226 @@
+[
+  {
+    "image": "",
+    "plant": "Knautia arvensis (Field scabious)",
+    "dependent_species": "Andrena hattorfiana (Large scabious mining bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oligolectic bee relies on Knautia pollen. Widespread across Hesse in meadows and road verges (declining where meadows intensify).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/KNAUTIA+arvensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria (Small scabious)",
+    "dependent_species": "Andrena hattorfiana (Large scabious mining bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Companion pollen source for A. hattorfiana. Widespread but decreasing on lean/calcareous grasslands in Hesse.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SCABIOSA+columbaria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis (Great burnet)",
+    "dependent_species": "Phengaris nausithous; Phengaris teleius (ant-parasitic blues)",
+    "status": "EN (Endangered)",
+    "description": "Essential oviposition plant for both species. Plant frequent along streams/wet meadows; butterflies highly localized in Hesse (river valleys).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SANGUISORBA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe (Marsh gentian)",
+    "dependent_species": "Phengaris alcon (Alcon blue)",
+    "status": "EN (Endangered)",
+    "description": "Larval host before ant phase. Restricted to wet heaths/bogs in Hesse (certain reserves in the low mountain ranges).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+pneumonanthe+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata (Cross gentian)",
+    "dependent_species": "Phengaris rebeli (Mountain Alcon Blue)",
+    "status": "EN (Endangered)",
+    "description": "Larval host for oviposition; then ant adoption. Localized on warm calcareous grasslands in Hesse (e.g., limestone slopes).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+cruciata+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus pulegioides (Large thyme)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Early larval food (buds/seeds) prior to ant phase. Widespread on dry, sunny soils in Hesse; excellent for pots and rockeries.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/THYMUS+pulegioides+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare (Wild marjoram)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Alternate larval food and rich nectar. Common in Hesse on dry slopes/edges; very balcony-friendly.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ORIGANUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa (Horseshoe vetch)",
+    "dependent_species": "Polyommatus coridon (Chalkhill blue)",
+    "status": "NT (Near Threatened)",
+    "description": "Exclusive larval host of the chalkhill blue. Local on Hesse’s limestone grasslands; superb for lean, sunny planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/HIPPOCREPIS+comosa+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria (Kidney vetch)",
+    "dependent_species": "Cupido minimus (Small blue)",
+    "status": "EN (Endangered)",
+    "description": "Primary larval host of the Small Blue. Local on dry, calcareous soils in Hesse; compact for pots/balconies.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ANTHYLLIS+vulneraria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia (Sainfoin)",
+    "dependent_species": "Zygaena carniolica; Zygaena ephialtes (burnet moths)",
+    "status": "NT (Near Threatened)",
+    "description": "Larval food and top nectar on calcareous grasslands. Regionally common in Hesse; highly ornamental and bee-rich.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ONOBRYCHIS+viciifolia+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium (Common rock-rose)",
+    "dependent_species": "Zygaena purpuralis (burnet moth)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host on warm rocky grasslands. Occurs on calcareous hills in Hesse; thrives in very lean containers.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/HELIANTHEMUM+nummularium+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Dianthus carthusianorum (Carthusian pink)",
+    "dependent_species": "Zygaena carniolica (burnet moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Host/nectar in dry calcareous swards. Frequent on suitable Hesse sites; showy, drought-proof container plant.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DIANTHUS+carthusianorum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare (Viper’s bugloss)",
+    "dependent_species": "Hoplitis adunca (mason bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Classic Echium-specialist bee host; huge nectar output. Widespread in Hesse on dry, open ground; perfect for planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ECHIUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis (Meadow sage)",
+    "dependent_species": "Bombus sylvarum (Shrill carder bee)",
+    "status": "EN (Endangered)",
+    "description": "High-value nectar for declining bumblebees. Widespread but reduced in Hesse; compact, long-blooming garden plant.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SALVIA+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula trachelium (Nettle-leaved bellflower)",
+    "dependent_species": "Chelostoma rapunculi (bellflower scissor bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Bee specialized on Campanula pollen. Widespread along hedges/wood margins in Hesse; tolerates partial shade on balconies.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CAMPANULA+trachelium+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula rotundifolia (Harebell)",
+    "dependent_species": "Chelostoma rapunculi (bellflower scissor bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Another key Campanula for the specialist bee. Frequent on lean soils and heath in Hesse; great for pots/rock gardens.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CAMPANULA+rotundifolia+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus (Bird’s-foot trefoil)",
+    "dependent_species": "Zygaena filipendulae; Zygaena trifolii (burnet moths)",
+    "status": "VU (Vulnerable)",
+    "description": "Key larval food for several Zygaena moths. Widespread across Hesse; thrives in sunny, lean planters and meadow lawns.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LOTUS+corniculatus+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Daucus carota (Wild carrot)",
+    "dependent_species": "Andrena rosae (sand bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oligolectic bee on Apiaceae; umbels feed many insects. Widespread in Hesse; good for dry planters and gravel gardens.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DAUCUS+carota+ssp.+carota+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Primula veris (Cowslip)",
+    "dependent_species": "Hamearis lucina (Duke of Burgundy)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host in light grassland/wood edges. Scattered across Hesse; easy for pots and meadow-style beds.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/PRIMULA+veris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Valeriana officinalis (Valerian)",
+    "dependent_species": "Melitaea diamina (False Heath Fritillary)",
+    "status": "VU (Vulnerable)",
+    "description": "Larvae use valerian in damp meadows. Widespread but fragmented in Hesse; good for rain gardens/large containers.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VALERIANA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris (Yellow loosestrife)",
+    "dependent_species": "Macropis europaea (loosestrife bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oil-collecting bee specialized on Lysimachia. Scattered along streams and wetlands in Hesse; thrives in large pots kept moist.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LYSIMACHIA+vulgaris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Filipendula ulmaria (Meadowsweet)",
+    "dependent_species": "Brenthis ino (Lesser marbled fritillary)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host in wet meadows/ditches. Widespread in damp areas of Hesse; excellent for rain barrels/planters kept moist.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/FILIPENDULA+ulmaria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum (Dark mullein)",
+    "dependent_species": "Cucullia verbasci (mullein moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Specialist moth host; ornamental spires. Widespread on dry soils in Hesse; perfect for hot balconies.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VERBASCUM+nigrum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Cardamine pratensis (Cuckooflower)",
+    "dependent_species": "Anthocharis cardamines (Orange-tip)",
+    "status": "NT (Near Threatened)",
+    "description": "Spring oviposition host along damp edges. Widespread in Hesse; suitable for semi-shade planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CARDAMINE+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Clinopodium vulgare (Wild basil)",
+    "dependent_species": "Melitta tricincta (wild basil bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oligolectic bee mainly on wild basil/marjoram. Local but widespread in warm open sites in Hesse; tidy, compact for pots.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CLINOPODIUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Silene vulgaris (Bladder campion)",
+    "dependent_species": "Hadena bicruris (Lychnis moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Specialist noctuid uses Silene/Lychnis. Widespread on dry edges and embankments in Hesse; easy from seed in planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SILENE+vulgaris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa (Greater knapweed)",
+    "dependent_species": "Andrena fulvago (golden-shouldered mining bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Specialist bee focused on Centaurea pollen. Local on calcareous slopes in Hesse; showy and drought-tolerant for containers.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CENTAUREA+scabiosa+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Vicia cracca (Tufted vetch)",
+    "dependent_species": "Zygaena viciae (New Forest burnet complex)",
+    "status": "NT (Near Threatened)",
+    "description": "Larval food for several burnet moths and blues. Widespread in Hesse hedges and meadows; good in deep planters/trellises.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VICIA+cracca+Portion+en.html"
+  }
+]
