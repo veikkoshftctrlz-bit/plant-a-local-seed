@@ -1,0 +1,218 @@
+[
+  {
+    "image": "",
+    "plant": "Knautia arvensis (Field scabious)",
+    "dependent_species": "Andrena hattorfiana (Large scabious mining bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oligolectic bee relies on Knautia pollen. Widespread across Bavaria (meadows and road verges).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/KNAUTIA+arvensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria (Small scabious)",
+    "dependent_species": "Andrena hattorfiana (Large scabious mining bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Companion pollen source for A. hattorfiana. Widespread but declining in calcareous/lean meadows in Bavaria.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SCABIOSA+columbaria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis (Great burnet)",
+    "dependent_species": "Phengaris nausithous; Phengaris teleius (ant-parasitic blues)",
+    "status": "EN (Endangered)",
+    "description": "Essential oviposition plant for both species. Present widely; butterflies localized to river valleys and wet meadows in Bavaria.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SANGUISORBA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe (Marsh gentian)",
+    "dependent_species": "Phengaris alcon (Alcon blue)",
+    "status": "EN (Endangered)",
+    "description": "Larval host before ant phase. Restricted to wet heaths and boggy reserves in the Bavarian Alpine foreland and heathlands.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+pneumonanthe+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata (Cross gentian)",
+    "dependent_species": "Phengaris rebeli (Mountain Alcon Blue)",
+    "status": "EN (Endangered)",
+    "description": "Larval host for oviposition; then ant phase. Restricted to warm calcareous grasslands in Bavaria (Franconia, Alpine foothills).",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+cruciata+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum (Wild thyme)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Early larval food (buds/seeds) prior to ant adoption. Widespread on dry, sandy and rocky sites in Bavaria.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/THYMUS+serpyllum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare (Wild marjoram)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Alternate larval food and rich nectar. Common and garden-suitable across Bavaria.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ORIGANUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis (Devil’s-bit scabious)",
+    "dependent_species": "Euphydryas aurinia (Marsh fritillary)",
+    "status": "EN (Endangered)",
+    "description": "Primary larval food in many populations. Still present; butterfly localized in Bavarian lowland fens and wet grasslands.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SUCCISA+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Filipendula ulmaria (Meadowsweet)",
+    "dependent_species": "Brenthis ino (Lesser marbled fritillary)",
+    "status": "VU (Vulnerable)",
+    "description": "Larvae feed on meadowsweet in wet meadows. Widespread in Bavaria’s damp habitats; excellent for rain gardens/containers.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/FILIPENDULA+ulmaria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus (Bird’s-foot trefoil)",
+    "dependent_species": "Zygaena trifolii; Zygaena filipendulae (burnet moths)",
+    "status": "VU (Vulnerable)",
+    "description": "Key larval food for several Zygaena species. Widespread across Bavaria; thrives in balconies/containers if sunny and lean.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LOTUS+corniculatus+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia (Sainfoin)",
+    "dependent_species": "Zygaena carniolica; Zygaena ephialtes (burnet moths)",
+    "status": "NT (Near Threatened)",
+    "description": "Larval food and top nectar source on calcareous soils. Regionally common in Bavarian dry grasslands; very ornamental.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ONOBRYCHIS+viciifolia+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa (Horseshoe vetch)",
+    "dependent_species": "Polyommatus coridon (Chalkhill blue)",
+    "status": "NT (Near Threatened)",
+    "description": "Exclusive larval host of chalkhill blue. Restricted to warm limestone grasslands (Franconia, Alps). Excellent rock-garden plant.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/HIPPOCREPIS+comosa+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria (Kidney vetch)",
+    "dependent_species": "Cupido minimus (Small blue)",
+    "status": "EN (Endangered)",
+    "description": "Primary larval host of the Small Blue. Local in Bavaria on lean, calcareous soils; compact for pots/balconies.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ANTHYLLIS+vulneraria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Dianthus carthusianorum (Carthusian pink)",
+    "dependent_species": "Zygaena carniolica (burnet moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Host/nectar within dry grasslands. Widespread on suitable Bavarian limestone sites; showy and very drought-tolerant.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DIANTHUS+carthusianorum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare (Viper’s bugloss)",
+    "dependent_species": "Hoplitis adunca (mason bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Classic Echium-specialist bee host; massive nectar output. Widespread in Bavaria’s dry open sites; thrives in planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ECHIUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula trachelium (Nettle-leaved bellflower)",
+    "dependent_species": "Chelostoma rapunculi (bellflower scissor bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Oligolectic bee on Campanula pollen. Common along Bavarian hedgerows/wood edges; shade-tolerant for courtyards.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CAMPANULA+trachelium+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis (Meadow sage)",
+    "dependent_species": "Bombus sylvarum (Shrill carder bee)",
+    "status": "EN (Endangered)",
+    "description": "High-value nectar for declining bumblebee guild. Widespread but reduced in Bavaria; excellent, compact garden perennial.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SALVIA+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Primula veris (Cowslip)",
+    "dependent_species": "Hamearis lucina (Duke of Burgundy)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host in light grassland/wood margins. Scattered across Bavaria; easy in pots and meadow-style beds.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/PRIMULA+veris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Valeriana officinalis (Valerian)",
+    "dependent_species": "Melitaea diamina (False Heath Fritillary)",
+    "status": "VU (Vulnerable)",
+    "description": "Larvae use valerian in damp meadows. Widespread but fragmented in Bavaria; good for rain barrels/large containers.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VALERIANA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris (Yellow loosestrife)",
+    "dependent_species": "Macropis europaea (loosestrife bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oil-collecting bee specialized on Lysimachia. Scattered in Bavarian wetlands; thrives in large pots kept moist.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LYSIMACHIA+vulgaris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum (Dark mullein)",
+    "dependent_species": "Cucullia verbasci (mullein moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Specialist moth host; very ornamental spikes. Widespread in Bavaria; excellent for dry, sunny balconies.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VERBASCUM+nigrum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Cardamine pratensis (Cuckooflower)",
+    "dependent_species": "Anthocharis cardamines (Orange-tip)",
+    "status": "NT (Near Threatened)",
+    "description": "Spring oviposition host. Common in Bavaria; suitable for damp planters and shady beds.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CARDAMINE+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Daucus carota (Wild carrot)",
+    "dependent_species": "Andrena rosae (sand bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Oligolectic bee on Apiaceae; umbels feed many insects. Widespread in Bavaria; good for dry planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DAUCUS+carota+ssp.+carota+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula rotundifolia (Harebell)",
+    "dependent_species": "Chelostoma rapunculi (bellflower scissor bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Another key Campanula for the specialist bee. Widespread in Bavaria, especially on lean soils; great for pots/rock gardens.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CAMPANULA+rotundifolia+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Hylotelephium telephium (Orpine; syn. Sedum telephium)",
+    "dependent_species": "Scolitantides orion (Chequered blue)",
+    "status": "EN (Endangered)",
+    "description": "Larval host in parts of Central Europe; in Bavaria very localized on rocky outcrops. Excellent drought-proof pot plant.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SEDUM+telephium+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Geranium sanguineum (Bloody cranesbill)",
+    "dependent_species": "Aricia eumedon (Geranium Argus)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host of a specialist blue. Local on limestone in Bavaria; compact and floriferous for balcony boxes.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GERANIUM+sanguineum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium (Common rock-rose)",
+    "dependent_species": "Zygaena purpuralis (burnet moth)",
+    "status": "VU (Vulnerable)",
+    "description": "Larval host on warm, rocky grasslands. Local in Bavaria; superb for sunny, very lean balcony planters.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/HELIANTHEMUM+nummularium+Portion+en.html"
+  }
+]
