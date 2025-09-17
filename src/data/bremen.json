@@ -1,0 +1,210 @@
+[
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen mainly from Knautia/Scabiosa; in Bremen very local on extensive meadows and dry grassland remnants.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Alternative core pollen plant; in Bremen only on nutrient‑poor grasslands and sandy banks, highly localized.",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic on Dipsacaceae (esp. Succisa); in Bremen restricted to poor wet meadows and moist heathy margins, rare.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source supporting A. marginata; in Bremen scattered along riverbanks, ruderal sites and rail land.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Zygaena trifolii / Z. lotii – five‑spot burnet complex",
+    "status": "VU",
+    "description": "Used by burnet moths and specialist bees; in Bremen localized in extensively mown wet meadows along streams and ditches.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus – Bird’s‑foot trefoil",
+    "dependent_species": "Zygaena lonicerae – narrow‑bordered five‑spot burnet",
+    "status": "VU",
+    "description": "Primary larval host for several burnets; in Bremen on dry meadows, levees and railway embankments, declining with succession.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hornklee-lotus-corniculatus.html"
+  },
+  {
+    "image": "",
+    "plant": "Trifolium pratense – Red clover",
+    "dependent_species": "Lasiocampa trifolii – grass eggar",
+    "status": "EN",
+    "description": "Larvae feed on clovers and grasses; in Bremen on poor meadows and fallows, strong decline due to intensive mowing.",
+    "seed_link": "https://www.jelitto.com/en/german-names/rotklee-trifolium-pratense.html"
+  },
+  {
+    "image": "",
+    "plant": "Vicia cracca – Tufted vetch",
+    "dependent_species": "Polia pastinum – the blackneck (vetch moth)",
+    "status": "EN",
+    "description": "Larvae use vetches/peas; in Bremen along species‑rich margins and embankments, populations fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/vogel-wicke-vicia-cracca.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – eastern burnet",
+    "status": "CR",
+    "description": "Strictly tied to sainfoin on warm, dry grasslands; if still present in Bremen area, extremely local on south‑facing sandy slopes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum – Wild thyme",
+    "dependent_species": "Zygaena purpuralis – transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae on thyme; in Bremen region on dry sandy heaths and open dunes of river terraces, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/thymian-thymus-serpyllum.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – brown‑banded carder bee",
+    "status": "VU",
+    "description": "Nectar/pollen mainstay in species‑rich margins; in Bremen scattered on dry banks and sunny edges.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Specialist pollen bee (oligolectic on Echium); in Bremen widespread on gravel, harborsides and rail yards, but patchy.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (Salvia); in Bremen on poor meadows, parks and ruderal meadows, declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic pollen bee on Lythrum; in Bremen along river backwaters, wet ditches and fen edges, localized.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Bremen widespread along ditches and wet meadows, threatened by overgrowth.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea jacea – Brown knapweed",
+    "dependent_species": "Melitta tricincta – knapweed blunthorn-bee",
+    "status": "NT",
+    "description": "Oligolectic bee on Centaurea; in Bremen fairly widespread in roadside meadows and urban grasslands if mowing is late.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-flockenblume-centaurea-jacea.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – knapweed geometer",
+    "status": "NT",
+    "description": "Supports specialist bees and some moth larvae; in Bremen local on dry embankments and sandy grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum – Dark mullein",
+    "dependent_species": "Cucullia verbasci – mullein moth",
+    "status": "NT",
+    "description": "Larvae feed on mulleins; in Bremen on dry margins, ballast and railway land, scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schwarze-koenigskerze-verbascum-nigrum.html"
+  },
+  {
+    "image": "",
+    "plant": "Calluna vulgaris – Common heather",
+    "dependent_species": "Colletes succinctus – heather colletes",
+    "status": "VU",
+    "description": "Oligolectic bee specializing on heather pollen; in Bremen confined to remaining heath patches and sandy open pine stands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/besenheide-calluna-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Rhamnus cathartica – Common buckthorn",
+    "dependent_species": "Satyrium spini – blue‑spot hairstreak",
+    "status": "VU",
+    "description": "Larvae on buckthorn/blackthorn; in Bremen on warm, sunny hedgerows and scrubby edges, fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuzdorn-rhamnus-cathartica.html"
+  },
+  {
+    "image": "",
+    "plant": "Prunus spinosa – Blackthorn",
+    "dependent_species": "Satyrium pruni – black hairstreak",
+    "status": "VU",
+    "description": "Larvae on blackthorn; in Bremen very local in large, sunny sloe thickets and field margins.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schlehe-prunus-spinosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Bremen along backwaters, wet meadows and lowland marsh edges, strongly declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy (balcony‑friendly)",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Bremen on sandy poor grasslands and dry urban banks with Viola, threatened. Easy for pots and balcony planters.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry (balcony‑friendly)",
+    "dependent_species": "Pyrgus malvae – grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and low, open structure; species needs flower‑rich edges in Bremen. Thrives in planters and window boxes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare 'Compactum' – Dwarf wild marjoram (balcony)",
+    "dependent_species": "Bombus humilis – brown‑banded carder bee",
+    "status": "VU",
+    "description": "Compact nectar powerhouse for balconies; supports long‑tongued bumblebees where flower‑rich margins are scarce in Bremen.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum (compact forms) – Wild thyme (balcony)",
+    "dependent_species": "Zygaena purpuralis – transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Mat‑forming thyme for troughs; key larval host for thyme burnets regionally, useful in Bremen’s sandy districts where habitat persists.",
+    "seed_link": "https://www.jelitto.com/en/german-names/thymian-thymus-serpyllum.html"
+  }
+]
