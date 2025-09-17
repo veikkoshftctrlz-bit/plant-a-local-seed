@@ -11,6 +11,7 @@ import nordrheinWestfalenData from "./nordrhein-westfalen.json";
 import bayernData from "./bayern.json";
 import badenWuerttembergData from "./baden-wuerttemberg.json";
 import hessenData from "./hessen.json";
+import berlinData from "./berlin.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -32,6 +33,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Hessen
   if (state.toLowerCase().includes("hessen") || state.toLowerCase().includes("hesse")) {
     return hessenData as ConservationData[];
+  }
+  
+  // Return real data for Berlin
+  if (state.toLowerCase().includes("berlin")) {
+    return berlinData as ConservationData[];
   }
   
   // Mock data for other states

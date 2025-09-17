@@ -1,0 +1,202 @@
+[
+  {
+    "image": "",
+    "plant": "Calluna vulgaris – Common heather",
+    "dependent_species": "Rhagades pruni – burnet moth (heath specialist)",
+    "status": "CR",
+    "description": "Larvae feed almost exclusively on heather; in Berlin confined to dry heaths and inland dunes, extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/besenheide-calluna-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Armeria maritima – Sea thrift",
+    "dependent_species": "Synanthedon muscaeformis – thrift clearwing",
+    "status": "CR",
+    "description": "Larvae bore in the roots of sea thrift; in Berlin only on very dry sandy sites with Armeria stands, extremely rare.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grasnelke-armeria-maritima.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic wild bee collecting pollen almost only from Knautia/Scabiosa; in Berlin scattered on extensively managed meadows, highly threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Alternative main pollen source; in Berlin very local on nutrient-poor dry grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s-bit scabious",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic on Dipsacaceae (esp. Succisa/Knautia); in Berlin persists on poor wet meadows and dry meadows, rare and scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "NT",
+    "description": "Late-flowering pollen source that supports A. marginata; in Berlin more scattered along paths and rail wasteland.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Zygaena trifolii / Z. lotii – five-spot burnet complex",
+    "status": "VU",
+    "description": "Several burnet moths and butterflies use great burnet stands; in Berlin localized in extensively mown wet meadows.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Trifolium pratense – Red clover",
+    "dependent_species": "Lasiocampa trifolii – grass eggar",
+    "status": "EN",
+    "description": "Larvae feed on clovers and grasses; in Berlin on poor meadows and wasteland, in sharp decline.",
+    "seed_link": "https://www.jelitto.com/en/german-names/rotklee-trifolium-pratense.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus – Bird’s‑foot trefoil",
+    "dependent_species": "Zygaena lonicerae – narrow-bordered five-spot burnet",
+    "status": "VU",
+    "description": "Larvae primarily use trefoils (Lotus); in Berlin on dry grasslands and railway wasteland, habitats declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hornklee-lotus-corniculatus.html"
+  },
+  {
+    "image": "",
+    "plant": "Vicia cracca – Tufted vetch",
+    "dependent_species": "Polia pastinum – the blackneck (vetch moth)",
+    "status": "EN",
+    "description": "Larvae use vetches and peas; in Berlin tied to flower-rich margins, highly threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/vogel-wicke-vicia-cracca.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – eastern burnet",
+    "status": "CR",
+    "description": "Strictly tied to sainfoin on nutrient-poor meadows; if still present in Berlin, only on very warm dry grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock-rose",
+    "dependent_species": "Zygaena fausta – burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae on rock-rose; in Berlin habitats are very rare (calcareous grasslands, dunes), on the brink of extinction.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Highly specialized pollen bee (oligolectic on Echium); in Berlin widespread on gravel and wasteland, but fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (esp. Salvia); in Berlin on poor meadows and ruderal sites, threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum – Wild thyme",
+    "dependent_species": "Zygaena purpuralis – transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae live on thyme; in Berlin only on dry sandy heaths and poor grasslands, highly threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/thymian-thymus-serpyllum.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – brown-banded carder bee",
+    "status": "VU",
+    "description": "Provides nectar and pollen in species‑rich margins; the carder bee is declining in Berlin and needs flower‑rich edges.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic pollen bee on Lythrum; in Berlin along wet ditches and alder carrs, localized.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Berlin on ditch banks and wet margins, widespread but threatened by succession.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – knapweed moth (geometer)",
+    "status": "NT",
+    "description": "Asteraceae provide pollen/nectar for specialist wild bees and larval food for some moths; in Berlin local on dry grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum – Dark mullein",
+    "dependent_species": "Cucullia verbasci – mullein moth",
+    "status": "NT",
+    "description": "Larvae feed on mulleins; in Berlin on dry margins and railway wasteland, rather local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schwarze-koenigskerze-verbascum-nigrum.html"
+  },
+  {
+    "image": "",
+    "plant": "Rhamnus cathartica – Common buckthorn",
+    "dependent_species": "Satyrium spini – blue‑spot hairstreak",
+    "status": "VU",
+    "description": "Larvae on buckthorn and blackthorn; in Berlin in warm hedgerows and sunny edges, threatened by hedgerow dynamics and management.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuzdorn-rhamnus-cathartica.html"
+  },
+  {
+    "image": "",
+    "plant": "Prunus spinosa – Blackthorn",
+    "dependent_species": "Satyrium pruni – black hairstreak",
+    "status": "VU",
+    "description": "Larvae on blackthorn; Berlin occurrences on sun‑exposed hedge edges, fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schlehe-prunus-spinosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Berlin only in near‑natural ditches and wet meadows, highly threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Berlin on sandy poor grasslands with plenty of Viola, threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry",
+    "dependent_species": "Pyrgus malvae – grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Nectar and margin structure are important; species needs flower‑rich edges, declining in Berlin.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]
