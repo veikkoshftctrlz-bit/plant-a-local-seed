@@ -47,7 +47,7 @@ const PostcodeInput = ({
         
         <form onSubmit={handleSubmit} className="space-y-6">
           <div className="relative">
-            <Input type="text" placeholder="ENTER_POSTCODE.EXE" value={postcode} onChange={e => setPostcode(e.target.value)} required className="pr-12 h-14 text-center text-lg font-mono-digital bg-black border-2 border-white text-white placeholder:text-white/60 focus:shadow-[0_0_20px] focus:shadow-white/50 transition-all duration-300 rounded-none" />
+            <Input type="text" placeholder="ENTER_CITY.EXE" value={postcode} onChange={e => setPostcode(e.target.value)} required className="pr-12 h-14 text-center text-lg font-mono-digital bg-black border-2 border-white text-white placeholder:text-white/60 focus:shadow-[0_0_20px] focus:shadow-white/50 transition-all duration-300 rounded-none" />
             <Search className="absolute right-4 top-1/2 transform -translate-y-1/2 w-5 h-5 text-white animate-pulse" />
           </div>
           
