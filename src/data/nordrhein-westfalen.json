@@ -1,0 +1,162 @@
+[
+  {
+    "image": "",
+    "plant": "Primula veris (Cowslip)",
+    "dependent_species": "Hamearis lucina (Duke of Burgundy)",
+    "status": "VU (Vulnerable)",
+    "description": "Caterpillars feed on cowslip leaves; decline with meadow loss. Widespread but scattered across much of NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/PRIMULA+veris+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Valeriana officinalis (Valerian)",
+    "dependent_species": "Melitaea diamina (False Heath Fritillary)",
+    "status": "VU (Vulnerable)",
+    "description": "Larvae use valerian in wet meadows. Present but fragmented in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VALERIANA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum (Great water dock)",
+    "dependent_species": "Lycaena dispar (Large Copper)",
+    "status": "VU (Vulnerable)",
+    "description": "Host dock in wetlands; butterfly highly threatened. Wetlands across NRW but rare.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/RUMEX+hydrolapathum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum (Wild thyme)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Larvae start in thyme buds before ant phase. Widespread on dry grasslands in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/THYMUS+serpyllum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare (Wild marjoram)",
+    "dependent_species": "Phengaris arion (Large Blue)",
+    "status": "VU (Vulnerable)",
+    "description": "Alternate larval food; nectar-rich. Widespread in NRW dry meadows.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ORIGANUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Dianthus carthusianorum (Carthusian pink)",
+    "dependent_species": "Zygaena carniolica (Burnet moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Moth larvae use Dianthus; linked to dry grasslands. Occurs but patchy in calcareous grasslands NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DIANTHUS+carthusianorum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria (Small scabious)",
+    "dependent_species": "Andrena hattorfiana (Scabious bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Bee strictly uses scabious pollen. Widespread but declining in NRW meadows.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SCABIOSA+columbaria+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus (Bird’s-foot trefoil)",
+    "dependent_species": "Zygaena trifolii (Burnet moth)",
+    "status": "VU (Vulnerable)",
+    "description": "Main larval food of burnet moths. Widespread across NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LOTUS+corniculatus+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Daucus carota (Wild carrot)",
+    "dependent_species": "Andrena rosae (Sand bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Specialist bee on Apiaceae. Widespread across NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/DAUCUS+carota+ssp.+carota+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata (Cross gentian)",
+    "dependent_species": "Phengaris rebeli",
+    "status": "EN (Endangered)",
+    "description": "Essential larval host before ant phase. Restricted to calcareous grasslands in SE NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+cruciata+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula trachelium (Nettle-leaved bellflower)",
+    "dependent_species": "Chelostoma rapunculi (Bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Bee specialized on bellflowers. Widespread in NRW wood edges.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CAMPANULA+trachelium+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare (Viper’s bugloss)",
+    "dependent_species": "Hoplitis adunca (Bee)",
+    "status": "NT (Near Threatened)",
+    "description": "Mason bee tied to Echium pollen. Widespread in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/ECHIUM+vulgare+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis (Meadow sage)",
+    "dependent_species": "Bombus sylvarum (Shrill carder bee)",
+    "status": "EN (Endangered)",
+    "description": "Key nectar for rare bumblebee. Widespread but declining in NRW meadows.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SALVIA+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis (Devil’s-bit scabious)",
+    "dependent_species": "Euphydryas aurinia (Marsh fritillary)",
+    "status": "CR (Critical)",
+    "description": "Larval host plant. Plant still present, butterfly extinct/relict in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SUCCISA+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis (Field scabious)",
+    "dependent_species": "Andrena hattorfiana (Bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Specialist bee on Knautia pollen. Widespread in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/KNAUTIA+arvensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis (Great burnet)",
+    "dependent_species": "Phengaris teleius, Phengaris nausithous",
+    "status": "EN–CR (Endangered to Critical)",
+    "description": "Essential oviposition host. Plant common, butterflies very localized in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/SANGUISORBA+officinalis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe (Marsh gentian)",
+    "dependent_species": "Phengaris alcon (Alcon Blue)",
+    "status": "EN (Endangered)",
+    "description": "Host for eggs and larvae. Restricted to wet heaths/reserves in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/GENTIANA+pneumonanthe+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum (Dark mullein)",
+    "dependent_species": "Cucullia verbasci (Moth)",
+    "status": "NT (Near Threatened)",
+    "description": "Caterpillar host. Widespread in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/VERBASCUM+nigrum+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Cardamine pratensis (Cuckooflower)",
+    "dependent_species": "Anthocharis cardamines (Orange-tip butterfly)",
+    "status": "NT (Near Threatened)",
+    "description": "Host for spring butterfly. Widespread in NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/CARDAMINE+pratensis+Portion+en.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris (Yellow loosestrife)",
+    "dependent_species": "Macropis europaea (Loosestrife bee)",
+    "status": "VU (Vulnerable)",
+    "description": "Bee collects oil exclusively from Lysimachia. Scattered in wetlands NRW.",
+    "seed_link": "https://www.jelitto.com/de/Saatgut/LYSIMACHIA+vulgaris+Portion+en.html"
+  }
+]
