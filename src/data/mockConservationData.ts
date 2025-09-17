@@ -20,6 +20,7 @@ import mecklenburgVorpommernData from "./mecklenburg-vorpommern.json";
 import rheinlandPfalzData from "./rheinland-pfalz.json";
 import sachsenData from "./sachsen.json";
 import sachsenAnhaltData from "./sachsen-anhalt.json";
+import schleswigHolsteinData from "./schleswig-holstein.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -86,6 +87,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Sachsen-Anhalt
   if (state.toLowerCase().includes("sachsen-anhalt") || state.toLowerCase().includes("saxony-anhalt")) {
     return sachsenAnhaltData as ConservationData[];
+  }
+  
+  // Return real data for Schleswig-Holstein
+  if (state.toLowerCase().includes("schleswig") || state.toLowerCase().includes("holstein") || state.toLowerCase().includes("schleswig-holstein")) {
+    return schleswigHolsteinData as ConservationData[];
   }
   
   // Mock data for other states
