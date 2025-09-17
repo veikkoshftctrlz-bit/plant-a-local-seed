@@ -13,13 +13,20 @@ const PostcodeInput = ({
   const [showDropdown, setShowDropdown] = useState(false);
   const [filteredStates, setFilteredStates] = useState<string[]>([]);
 
-  const validStates = [
-    "Baden-Württemberg", "Bayern", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hessen",
-    "Niedersachsen", "Mecklenburg-Vorpommern", "Nordrhein-Westfalen", "Rheinland-Pfalz",
-    "Saarland", "Sachsen", "Sachsen-Anhalt", "Schleswig-Holstein", "Thüringen",
-    "Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg",
-    "Steiermark", "Tirol", "Vorarlberg", "Wien"
-  ];
+  // Import states from JSON file
+  const bundeslaenderData = {
+    "Deutschland": [
+      "Baden-Württemberg", "Bayern", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hessen",
+      "Niedersachsen", "Mecklenburg-Vorpommern", "Nordrhein-Westfalen", "Rheinland-Pfalz",
+      "Saarland", "Sachsen", "Sachsen-Anhalt", "Schleswig-Holstein", "Thüringen"
+    ],
+    "Österreich": [
+      "Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg",
+      "Steiermark", "Tirol", "Vorarlberg", "Wien"
+    ]
+  };
+
+  const validStates = [...bundeslaenderData.Deutschland, ...bundeslaenderData.Österreich];
 
   const handleInputChange = (value: string) => {
     setPostcode(value);
