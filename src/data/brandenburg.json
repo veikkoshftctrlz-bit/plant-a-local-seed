@@ -1,0 +1,218 @@
+[
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe – Marsh gentian",
+    "dependent_species": "Phengaris alcon – Alcon blue",
+    "status": "EN",
+    "description": "Caterpillars start on marsh gentian buds, then complete development in Myrmica ant nests; in Brandenburg confined to wet heaths/bogs and nutrient‑poor fens, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/lungen-enzian-gentiana-pneumonanthe.html"
+  },
+  {
+    "image": "",
+    "plant": "Calluna vulgaris – Common heather",
+    "dependent_species": "Rhagades pruni – green forester (heath burnet moth)",
+    "status": "EN",
+    "description": "Larvae feed almost exclusively on heather; in Brandenburg mainly on dry heaths and inland dunes (e.g., sand landscapes), scattered and declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/besenheide-calluna-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Armeria maritima – Sea thrift",
+    "dependent_species": "Synanthedon muscaeformis – thrift clearwing",
+    "status": "EN",
+    "description": "Larvae bore in the root crowns of thrift; Brandenburg records are tied to very dry sandy grasslands with Armeria patches, extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grasnelke-armeria-maritima.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen from Knautia/Scabiosa; in Brandenburg found on extensive meadows and dry grasslands, highly threatened by intensification.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – large scabious mining bee",
+    "status": "EN",
+    "description": "Alternative main pollen plant; in Brandenburg very local on calcareous and sandy dry grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic on Dipsacaceae (especially Succisa); in Brandenburg on poor wet meadows and transitions to dry heaths, rare and scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source that supports A. marginata; in Brandenburg along waysides, floodplains and rail verges, fairly scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Zygaena trifolii / Z. lotii – five‑spot burnet complex",
+    "status": "VU",
+    "description": "Burnet moths and some specialist bees use great burnet; in Brandenburg localized in extensively mown wet or fresh meadows.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus – Bird’s‑foot trefoil",
+    "dependent_species": "Zygaena lonicerae – narrow‑bordered five‑spot burnet",
+    "status": "VU",
+    "description": "Larvae primarily use trefoils (Lotus); in Brandenburg frequent in dry, nutrient‑poor grasslands and on embankments, but habitats are shrinking.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hornklee-lotus-corniculatus.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – eastern burnet",
+    "status": "EN",
+    "description": "Strictly tied to sainfoin and other dry‑meadow Fabaceae; in Brandenburg only on warm, base‑rich dry grasslands, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock‑rose",
+    "dependent_species": "Zygaena fausta – burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae feed on rock‑rose; in Brandenburg restricted to rare calcareous dry grasslands, if present at all, on the brink of extinction.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus serpyllum – Wild thyme",
+    "dependent_species": "Zygaena purpuralis – transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae live on thyme; in Brandenburg on dry sandy heaths and open dunes, highly threatened by succession.",
+    "seed_link": "https://www.jelitto.com/en/german-names/thymian-thymus-serpyllum.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – brown‑banded carder bee",
+    "status": "VU",
+    "description": "Important nectar/pollen in species‑rich margins; the carder bee is declining in Brandenburg and needs flower‑rich edges.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Highly specialized pollen bee (oligolectic on Echium); in Brandenburg common on gravel, rail land and sandy fallows but fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (esp. Salvia); in Brandenburg on poor meadows and ruderal sites, declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic pollen bee on Lythrum; in Brandenburg along sluggish waters, ditches and fen edges, local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Brandenburg widespread along ditches and wet meadows, threatened where vegetation closes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – knapweed geometer",
+    "status": "NT",
+    "description": "Asteraceae support specialist bees and some moth larvae; in Brandenburg local on dry embankments and sandy grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Verbascum nigrum – Dark mullein",
+    "dependent_species": "Cucullia verbasci – mullein moth",
+    "status": "NT",
+    "description": "Larvae feed on mulleins; in Brandenburg on dry margins, railway land and open sandy sites, rather local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schwarze-koenigskerze-verbascum-nigrum.html"
+  },
+  {
+    "image": "",
+    "plant": "Rhamnus cathartica – Common buckthorn",
+    "dependent_species": "Satyrium spini – blue‑spot hairstreak",
+    "status": "VU",
+    "description": "Larvae on buckthorn and blackthorn; in Brandenburg on warm scrub edges and hedgerows, fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuzdorn-rhamnus-cathartica.html"
+  },
+  {
+    "image": "",
+    "plant": "Prunus spinosa – Blackthorn",
+    "dependent_species": "Satyrium pruni – black hairstreak",
+    "status": "VU",
+    "description": "Larvae on blackthorn; Brandenburg occurrences on sun‑exposed hedge edges in large scrub mosaics, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schlehe-prunus-spinosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Brandenburg in naturalistic drainage ditches and wet meadows, strongly declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Bistorta officinalis (Polygonum bistorta) – Common bistort",
+    "dependent_species": "Boloria eunomia – bog fritillary",
+    "status": "CR",
+    "description": "Caterpillars feed on bistort; in Brandenburg tied to cool wet meadows and fen margins, extremely local and threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-knochel-bistorta-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata – Cross gentian",
+    "dependent_species": "Phengaris arion – large blue",
+    "status": "CR",
+    "description": "Eggs laid on cross gentian; after early instars larvae develop in Myrmica ant nests; in Brandenburg only on very warm calcareous grasslands, if present at all, critically endangered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuz-enzian-gentiana-cruciata.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa – Horseshoe vetch",
+    "dependent_species": "Polyommatus bellargus – Adonis blue",
+    "status": "EN",
+    "description": "Larvae feed on horseshoe vetch; in Brandenburg restricted to warm, base‑rich dry grasslands with short turf, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hufeisenklee-hippocrepis-comosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Brandenburg on sandy poor grasslands and heath edges with plenty of Viola, threatened.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry",
+    "dependent_species": "Pyrgus malvae – grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and open, low vegetation structure; species needs flower‑rich edges, declining regionally in Brandenburg.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]
