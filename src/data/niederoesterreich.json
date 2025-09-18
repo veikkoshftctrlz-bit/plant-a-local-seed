@@ -1,0 +1,226 @@
+[
+  {
+    "image": "",
+    "plant": "Gentiana cruciata – Cross gentian",
+    "dependent_species": "Phengaris arion – Large blue",
+    "status": "CR",
+    "description": "Eggs laid on cross gentian; later instars develop in Myrmica ant nests. In Lower Austria confined to very warm calcareous/loess dry grasslands (Wachau, Wienerwald fringes, Weinviertel), extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuz-enzian-gentiana-cruciata.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris teleius – Scarce large blue",
+    "status": "EN",
+    "description": "Butterfly oviposits on great burnet; larvae later develop in Myrmica ants. In Lower Austria localized in extensive wet meadows of March–Thaya lowlands and Pannonian backwaters.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris nausithous – Dusky large blue",
+    "status": "EN",
+    "description": "Strong dependence on great burnet and specific Myrmica; in Lower Austria very local in lowland wet meadows with late mowing (Marchfeld, Leitha plains).",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Euphydryas aurinia – Marsh fritillary",
+    "status": "EN",
+    "description": "Larvae mainly feed on devil’s‑bit scabious; in Lower Austria very local on species‑rich wet meadows and fen edges (Waldviertel), threatened by drainage.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Primula veris – Cowslip",
+    "dependent_species": "Hamearis lucina – Duke of Burgundy",
+    "status": "EN",
+    "description": "Eggs laid on cowslip (and oxlip); larvae feed on Primula leaves. In Lower Austria on warm calcareous grasslands and open woodland edges (Wienerwald, Wachau), highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schluesselblume-primula-veris.html"
+  },
+  {
+    "image": "",
+    "plant": "Corydalis cava – Hollowroot",
+    "dependent_species": "Parnassius mnemosyne – Clouded Apollo",
+    "status": "CR",
+    "description": "Females lay on Corydalis spp.; larvae on spring Corydalis in semi‑open woods. In Lower Austria extremely local in warm river valleys (e.g., Wachau), if still present.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hohlkresse-corydalis-cava.html"
+  },
+  {
+    "image": "",
+    "plant": "Hylotelephium telephium (syn. Sedum telephium) – Orpine",
+    "dependent_species": "Parnassius apollo – Apollo",
+    "status": "VU",
+    "description": "Larvae feed on stonecrops/orpines; in Lower Austria on rocky slopes of the Alpine fringe (Schneeberg–Rax, Wiener Alpen), scattered and vulnerable.",
+    "seed_link": "https://www.jelitto.com/en/german-names/fetthenne-sedum-telephium.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa – Horseshoe vetch",
+    "dependent_species": "Polyommatus bellargus – Adonis blue",
+    "status": "EN",
+    "description": "Larvae feed on horseshoe vetch; in Lower Austria restricted to short‑turf calcareous steppe grasslands (Wachau dry slopes, Leitha hills), very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hufeisenklee-hippocrepis-comosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria – Kidney vetch",
+    "dependent_species": "Cupido minimus – Small blue",
+    "status": "VU",
+    "description": "Caterpillars develop in kidney vetch flower heads; in Lower Austria on sandy/calcareous grasslands and vineyard margins, patchy and declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wundklee-anthyllis-vulneraria.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – Eastern burnet",
+    "status": "EN",
+    "description": "Larvae rely on sainfoin and other Fabaceae in xeric meadows; in Lower Austria on warm Pannonian slopes (Weinviertel, Leithagebirge), very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus pulegioides – Large‑thyme",
+    "dependent_species": "Zygaena purpuralis – Transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae feed on thymes; in Lower Austria on open steppe grasslands and rocky banks (Wachau, Leitha), threatened by scrub encroachment.",
+    "seed_link": "https://www.jelitto.com/en/german-names/quendel-thymus-pulegioides.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock‑rose",
+    "dependent_species": "Zygaena fausta – Burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae on rock‑rose; in Lower Austria only on the warmest, base‑rich dry grasslands if present (Wachau limestones), critically endangered and highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen from Knautia/Scabiosa; in Lower Austria scattered on extensive meadows and orchard grasslands, threatened by early mowing and eutrophication.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Alternate main pollen plant; in Lower Austria very local on nutrient‑poor calcareous grasslands and banks (Wachau, Wienerwald edges).",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source helping A. marginata; in Lower Austria along ditches, riverbanks and rail land, scattered (Danube corridor, Marchfeld).",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – Viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Specialist pollen bee (oligolectic on Echium); in Lower Austria widespread on sandy fallows, gravel and road verges, but fragmented in intensively farmed zones.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – Brown‑banded carder bee",
+    "status": "VU",
+    "description": "Key nectar/pollen in species‑rich margins; in Lower Austria on sunny vineyard edges and dry banks (Wachau, Thermenregion), declining with frequent mowing.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – Salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (Salvia); in Lower Austria on poor meadows, dry parks and ruderal meadows, in decline (Weinviertel, Wiener Becken).",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula bononiensis – Adriatic bellflower",
+    "dependent_species": "Chelostoma rapunculi – Bellflower scissor bee",
+    "status": "NT",
+    "description": "Oligolectic bee collects Campanula pollen; in Lower Austria on warm steppe slopes and dry field edges; garden‑suitable in sunny beds and borders.",
+    "seed_link": "https://www.jelitto.com/en/german-names/glockenblume-campanula-bononiensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – Purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic bee on Lythrum; in Lower Austria along slow waters, reed margins and ditches (Danube floodplains, March–Thaya), local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – Yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Lower Austria along canals, wet meadows and fen edges, threatened by overgrowth and water regime changes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – Knapweed geometer",
+    "status": "NT",
+    "description": "Supports specialist bees and some moth larvae; in Lower Austria local on dry embankments and calcareous grasslands (Wachau, Wienerwald).",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea jacea – Brown knapweed",
+    "dependent_species": "Melitta tricincta – Knapweed blunt‑horned bee",
+    "status": "NT",
+    "description": "Oligolectic bee on Centaurea; fairly widespread in roadside meadows and urban grasslands if mowing is late (Mostviertel, Weinviertel).",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-flockenblume-centaurea-jacea.html"
+  },
+  {
+    "image": "",
+    "plant": "Rhamnus cathartica – Common buckthorn",
+    "dependent_species": "Satyrium spini – Blue‑spot hairstreak",
+    "status": "VU",
+    "description": "Larvae on buckthorn/blackthorn; in Lower Austria on warm, sunny hedgerows and scrubby edges (Thermenregion, Wachau), fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuzdorn-rhamnus-cathartica.html"
+  },
+  {
+    "image": "",
+    "plant": "Prunus spinosa – Blackthorn",
+    "dependent_species": "Satyrium pruni – Black hairstreak",
+    "status": "VU",
+    "description": "Larvae on blackthorn; in Lower Austria very local in large, sunny sloe thickets and field margins around orchards and vineyards.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schlehe-prunus-spinosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – Large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Lower Austria in March–Thaya floodplains, Danube backwaters and wet meadows, populations declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy (balcony‑friendly)",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Lower Austria on sandy poor grasslands and dry urban banks with Viola; easy in planters and window boxes for balcony habitat.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry (balcony‑friendly)",
+    "dependent_species": "Pyrgus malvae – Grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and low, open structure; skippers need flower‑rich edges in Lower Austria. Excellent for containers and balcony troughs.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]
