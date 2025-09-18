@@ -28,6 +28,7 @@ import oberoesterreichData from "./oberoesterreich.json";
 import salzburgData from "./salzburg.json";
 import steiermarkData from "./steiermark.json";
 import tirolData from "./tirol.json";
+import vorarlbergData from "./vorarlberg.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -134,6 +135,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Tirol
   if (state.toLowerCase().includes("tirol") || state.toLowerCase().includes("tyrol")) {
     return tirolData as ConservationData[];
+  }
+  
+  // Return real data for Vorarlberg
+  if (state.toLowerCase().includes("vorarlberg")) {
+    return vorarlbergData as ConservationData[];
   }
   
   // Mock data for other states
