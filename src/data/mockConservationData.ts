@@ -142,7 +142,10 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   if (state.toLowerCase().includes("vorarlberg")) {
     return vorarlbergData as ConservationData[];
   }
-  
+     // Return real data for Wien
+   if (state.toLowerCase().includes("wien") || state.toLowerCase().includes("vienna")) {
+     return wienData as ConservationData[];
+   }
   // Mock data for other states
   return [
     {
