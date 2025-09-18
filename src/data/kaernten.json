@@ -1,0 +1,226 @@
+[
+  {
+    "image": "",
+    "plant": "Gentiana cruciata – Cross gentian",
+    "dependent_species": "Phengaris arion – Large blue",
+    "status": "CR",
+    "description": "Eggs laid on cross gentian; later instars develop in Myrmica ant nests. In Carinthia confined to very warm calcareous and steppe-like dry grasslands (e.g., Drau valley slopes), extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuz-enzian-gentiana-cruciata.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe – Marsh gentian",
+    "dependent_species": "Phengaris alcon – Alcon blue",
+    "status": "EN",
+    "description": "Caterpillars start on gentian buds, then complete development in Myrmica ant nests; in Carinthia on wet heaths and boggy fens (moor remnants), very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/lungen-enzian-gentiana-pneumonanthe.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris teleius – Scarce large blue",
+    "status": "EN",
+    "description": "Butterfly oviposits on great burnet; larvae later develop in Myrmica ant nests. In Carinthia localized in extensively mown wet meadows in river plains (e.g., Drau, Gail).",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris nausithous – Dusky large blue",
+    "status": "EN",
+    "description": "Strong dependence on great burnet and specific Myrmica ants; in Carinthia very local in lowland wet meadows with late mowing.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Hylotelephium telephium (syn. Sedum telephium) – Orpine",
+    "dependent_species": "Parnassius apollo – Apollo",
+    "status": "VU",
+    "description": "Larvae feed on stonecrops/orpines; in Carinthia the Apollo uses warm rocky slopes and alpine valley cliffs where host plants grow, scattered and vulnerable.",
+    "seed_link": "https://www.jelitto.com/en/german-names/fetthenne-sedum-telephium.html"
+  },
+  {
+    "image": "",
+    "plant": "Corydalis cava – Hollowroot",
+    "dependent_species": "Parnassius mnemosyne – Clouded Apollo",
+    "status": "CR",
+    "description": "Females lay on Corydalis spp.; larvae develop on spring Corydalis in semi‑open wood margins. In Carinthia extremely local in warm river valleys if still present.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hohlkresse-corydalis-cava.html"
+  },
+  {
+    "image": "",
+    "plant": "Primula veris – Cowslip",
+    "dependent_species": "Hamearis lucina – Duke of Burgundy",
+    "status": "EN",
+    "description": "Eggs laid on cowslip; larvae feed on Primula leaves. In Carinthia on warm calcareous grasslands and open woodland edges, highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schluesselblume-primula-veris.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa – Horseshoe vetch",
+    "dependent_species": "Polyommatus bellargus – Adonis blue",
+    "status": "EN",
+    "description": "Larvae feed on horseshoe vetch; in Carinthia restricted to short‑turf calcareous steppe grasslands and warm south‑facing slopes, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hufeisenklee-hippocrepis-comosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria – Kidney vetch",
+    "dependent_species": "Cupido minimus – Small blue",
+    "status": "VU",
+    "description": "Caterpillars develop in kidney vetch flower heads; in Carinthia on sandy/calcareous grasslands and vineyard margins, patchy and declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wundklee-anthyllis-vulneraria.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – Eastern burnet",
+    "status": "EN",
+    "description": "Larvae rely on sainfoin and other Fabaceae in xeric meadows; in Carinthia on warm Pannonian‑influenced slopes and road verges, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus pulegioides – Large‑thyme",
+    "dependent_species": "Zygaena purpuralis – Transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae feed on thymes; in Carinthia on open steppe grasslands and rocky banks, threatened by scrub encroachment.",
+    "seed_link": "https://www.jelitto.com/en/german-names/quendel-thymus-pulegioides.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock‑rose",
+    "dependent_species": "Zygaena fausta – Burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae on rock‑rose; in Carinthia only on the warmest, base‑rich dry grasslands if present, critically endangered and highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen from Knautia/Scabiosa; in Carinthia scattered on extensive meadows and orchard grasslands, threatened by early mowing and eutrophication.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Alternate main pollen plant; in Carinthia very local on nutrient‑poor calcareous grasslands and banks.",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic on Dipsacaceae (esp. Succisa/Knautia); in Carinthia persists in wet meadows and fen edges, rare and scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source helping A. marginata; in Carinthia along ditches, riverbanks and rail land, scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – Brown‑banded carder bee",
+    "status": "VU",
+    "description": "Key nectar/pollen in species‑rich margins; in Carinthia on sunny vineyard edges and dry banks, declining where mowing is frequent.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – Viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Specialist pollen bee (oligolectic on Echium); in Carinthia widespread on sandy fallows, gravel, and road verges, but fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – Salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (Salvia); in Carinthia on poor meadows, dry parks and ruderal meadows, in decline.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula bononiensis – Adriatic bellflower",
+    "dependent_species": "Chelostoma rapunculi – Bellflower scissor bee",
+    "status": "NT",
+    "description": "Oligolectic bee collects Campanula pollen; in Carinthia on warm steppe slopes and dry field edges where tall bellflowers persist; garden‑suitable in sunny beds.",
+    "seed_link": "https://www.jelitto.com/en/german-names/glockenblume-campanula-bononiensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – Purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic bee on Lythrum; in Carinthia along slow waters, reed margins and ditches, local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – Yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Carinthia along canals, wet meadows and fen edges, threatened by overgrowth and drainage.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – Knapweed geometer",
+    "status": "NT",
+    "description": "Supports specialist bees and some moth larvae; in Carinthia local on dry embankments and calcareous grasslands.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rhamnus cathartica – Common buckthorn",
+    "dependent_species": "Satyrium spini – Blue‑spot hairstreak",
+    "status": "VU",
+    "description": "Larvae on buckthorn/blackthorn; in Carinthia on warm, sunny hedgerows and scrubby edges of vineyard landscapes, fragmented.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuzdorn-rhamnus-cathartica.html"
+  },
+  {
+    "image": "",
+    "plant": "Prunus spinosa – Blackthorn",
+    "dependent_species": "Satyrium pruni – Black hairstreak",
+    "status": "VU",
+    "description": "Larvae on blackthorn; in Carinthia very local in large, sunny sloe thickets and field margins around orchards and vineyards.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schlehe-prunus-spinosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – Large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Carinthia in marsh edges, ditches and wet meadows of lowland floodplains, populations declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy (balcony‑friendly)",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Carinthia on sandy poor grasslands and dry urban banks with Viola; easy in planters and window boxes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry (balcony‑friendly)",
+    "dependent_species": "Pyrgus malvae – Grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and low, open structure; skippers need flower‑rich edges in Carinthia. Excellent for containers and balcony troughs.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]

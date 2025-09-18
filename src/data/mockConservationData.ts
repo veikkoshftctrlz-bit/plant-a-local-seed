@@ -22,6 +22,7 @@ import sachsenData from "./sachsen.json";
 import sachsenAnhaltData from "./sachsen-anhalt.json";
 import schleswigHolsteinData from "./schleswig-holstein.json";
 import thueringenData from "./thueringen.json";
+import kaerntenData from "./kaernten.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -98,6 +99,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Thüringen
   if (state.toLowerCase().includes("thüringen") || state.toLowerCase().includes("thueringen") || state.toLowerCase().includes("thuringia")) {
     return thueringenData as ConservationData[];
+  }
+  
+  // Return real data for Kärnten
+  if (state.toLowerCase().includes("kärnten") || state.toLowerCase().includes("kaernten") || state.toLowerCase().includes("carinthia")) {
+    return kaerntenData as ConservationData[];
   }
   
   // Mock data for other states
