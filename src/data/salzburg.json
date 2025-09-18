@@ -1,0 +1,226 @@
+[
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe – Marsh gentian",
+    "dependent_species": "Phengaris alcon – Alcon blue",
+    "status": "EN",
+    "description": "Caterpillars begin on gentian buds, then finish in Myrmica ant nests; in Salzburg very local in wet heaths and poor fens of the Alpine foreland and valley bog remnants (e.g., Flachgau).",
+    "seed_link": "https://www.jelitto.com/en/german-names/lungen-enzian-gentiana-pneumonanthe.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Euphydryas aurinia – Marsh fritillary",
+    "status": "EN",
+    "description": "Larvae mainly feed on devil’s‑bit scabious; in Salzburg very local on species‑rich wet meadows and fen edges (Flachgau, Lungau), threatened by drainage and early mowing.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Primula veris – Cowslip",
+    "dependent_species": "Hamearis lucina – Duke of Burgundy",
+    "status": "EN",
+    "description": "Eggs laid on cowslip (and oxlip); larvae feed on Primula leaves. In Salzburg on warm calcareous grasslands and open woodland edges (northern Limestone Alps foothills), highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/schluesselblume-primula-veris.html"
+  },
+  {
+    "image": "",
+    "plant": "Corydalis cava – Hollowroot",
+    "dependent_species": "Parnassius mnemosyne – Clouded Apollo",
+    "status": "CR",
+    "description": "Females lay on Corydalis spp.; larvae develop on spring Corydalis in semi‑open wood margins. In Salzburg extremely local in warm river valleys if still present.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hohlkresse-corydalis-cava.html"
+  },
+  {
+    "image": "",
+    "plant": "Hylotelephium telephium (syn. Sedum telephium) – Orpine",
+    "dependent_species": "Parnassius apollo – Apollo",
+    "status": "VU",
+    "description": "Larvae feed on orpines/stonecrops; in Salzburg the Apollo uses warm rocky slopes and cliffs in the Salzach/Saalach valleys and alpine fringes, scattered and vulnerable.",
+    "seed_link": "https://www.jelitto.com/en/german-names/fetthenne-sedum-telephium.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata – Cross gentian",
+    "dependent_species": "Phengaris arion – Large blue",
+    "status": "CR",
+    "description": "Eggs laid on cross gentian; later instars develop in Myrmica ant nests. In Salzburg restricted to very warm calcareous/loess dry grasslands on south‑facing slopes, extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuz-enzian-gentiana-cruciata.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa – Horseshoe vetch",
+    "dependent_species": "Polyommatus bellargus – Adonis blue",
+    "status": "EN",
+    "description": "Larvae feed on horseshoe vetch; in Salzburg confined to short‑turf calcareous steppe grasslands and dry banks of the northern Limestone Alps foothills, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hufeisenklee-hippocrepis-comosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria – Kidney vetch",
+    "dependent_species": "Cupido minimus – Small blue",
+    "status": "VU",
+    "description": "Caterpillars develop inside flower heads; in Salzburg on sandy/calcareous grasslands and gravelly terraces of river valleys, patchy and declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wundklee-anthyllis-vulneraria.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus pulegioides – Large‑thyme",
+    "dependent_species": "Zygaena purpuralis – Transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae on creeping thymes; in Salzburg on open steppe‑like grasslands and rocky banks, threatened by scrub encroachment and abandonment.",
+    "seed_link": "https://www.jelitto.com/en/german-names/quendel-thymus-pulegioides.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock‑rose",
+    "dependent_species": "Zygaena fausta – Burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae on rock‑rose; in Salzburg only on the warmest, base‑rich dry grasslands if present, critically endangered and highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen mainly from Knautia/Scabiosa; in Salzburg scattered in extensively managed meadows and orchard belts, threatened by early mowing and eutrophication.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Alternate core pollen plant; in Salzburg very local on nutrient‑poor calcareous grasslands and dry embankments.",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source supporting A. marginata; in Salzburg along rivers, ruderal sites and rail land (Salzach/Saalach corridors), scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Zygaena trifolii / Z. lotii – Five‑spot burnet complex",
+    "status": "VU",
+    "description": "Used by burnet moths and specialist bees; in Salzburg localized in extensively mown wet meadows of river plains and valley bottoms.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus corniculatus – Bird’s‑foot trefoil",
+    "dependent_species": "Zygaena lonicerae – Narrow‑bordered five‑spot burnet",
+    "status": "VU",
+    "description": "Primary larval host for several burnets; in Salzburg on dry meadows, levees and embankments, declining with succession and dense sward.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hornklee-lotus-corniculatus.html"
+  },
+  {
+    "image": "",
+    "plant": "Trifolium pratense – Red clover",
+    "dependent_species": "Lasiocampa trifolii – Grass eggar",
+    "status": "EN",
+    "description": "Larvae feed on clovers and grasses; in Salzburg on poor meadows and fallows, in sharp decline due to frequent mowing in valley floors.",
+    "seed_link": "https://www.jelitto.com/en/german-names/rotklee-trifolium-pratense.html"
+  },
+  {
+    "image": "",
+    "plant": "Vicia cracca – Tufted vetch",
+    "dependent_species": "Polia pastinum – The blackneck (vetch moth)",
+    "status": "EN",
+    "description": "Larvae use vetches/peas; in Salzburg along species‑rich margins and river embankments, fragmented populations.",
+    "seed_link": "https://www.jelitto.com/en/german-names/vogel-wicke-vicia-cracca.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – Brown‑banded carder bee",
+    "status": "VU",
+    "description": "Nectar/pollen mainstay in species‑rich margins; in Salzburg on sunny edges and dry banks (wine‑growing fringes of the Danube reach into neighboring states; locally on warm valley slopes), scattered.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – Viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Specialist pollen bee (oligolectic on Echium); in Salzburg widespread on gravel bars, quarries and rail yards, but patchy.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia pratensis – Meadow clary",
+    "dependent_species": "Anthophora quadrimaculata – Salvia potter bee",
+    "status": "VU",
+    "description": "Prefers deep‑corolla labiates (Salvia); in Salzburg on poor meadows, parks and ruderal meadows in the foreland, declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-salbei-salvia-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula trachelium – Nettle‑leaved bellflower",
+    "dependent_species": "Chelostoma rapunculi – Bellflower scissor bee",
+    "status": "NT",
+    "description": "Oligolectic bee on Campanula pollen; in Salzburg along woodland edges and hedges; very garden‑friendly and shade‑tolerant.",
+    "seed_link": "https://www.jelitto.com/en/german-names/nesselglocke-campanula-trachelium.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – Purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic bee on Lythrum; in Salzburg along slow waters, reed margins and ditches (Saalach/Salzach backwaters), local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – Yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Salzburg along canals, wet meadows and fen edges, threatened where vegetation closes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – Knapweed geometer",
+    "status": "NT",
+    "description": "Supports specialist bees and some moth larvae; in Salzburg local on dry embankments and calcareous grasslands of the forelands and valley slopes.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea jacea – Brown knapweed",
+    "dependent_species": "Melitta tricincta – Knapweed blunt‑horned bee",
+    "status": "NT",
+    "description": "Oligolectic bee on Centaurea; fairly widespread in roadside meadows and urban grasslands if mowing is late across the Salzburg basins.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-flockenblume-centaurea-jacea.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – Large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Salzburg along backwaters, wet meadows and marsh edges of larger rivers, strongly declining.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy (balcony‑friendly)",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Salzburg on sandy poor grasslands and dry urban banks with Viola; thrives in planters and window boxes, great for balconies.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry (balcony‑friendly)",
+    "dependent_species": "Pyrgus malvae – Grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and low, open structure; skippers need flower‑rich edges in Salzburg. Excellent for containers and balcony troughs.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]
