@@ -24,6 +24,7 @@ import schleswigHolsteinData from "./schleswig-holstein.json";
 import thueringenData from "./thueringen.json";
 import kaerntenData from "./kaernten.json";
 import niederoesterreichData from "./niederoesterreich.json";
+import oberoesterreichData from "./oberoesterreich.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -110,6 +111,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Niederösterreich
   if (state.toLowerCase().includes("niederösterreich") || state.toLowerCase().includes("niederoesterreich") || state.toLowerCase().includes("lower austria")) {
     return niederoesterreichData as ConservationData[];
+  }
+  
+  // Return real data for Oberösterreich
+  if (state.toLowerCase().includes("oberösterreich") || state.toLowerCase().includes("oberoesterreich") || state.toLowerCase().includes("upper austria")) {
+    return oberoesterreichData as ConservationData[];
   }
   
   // Mock data for other states
