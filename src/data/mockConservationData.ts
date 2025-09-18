@@ -26,6 +26,7 @@ import kaerntenData from "./kaernten.json";
 import niederoesterreichData from "./niederoesterreich.json";
 import oberoesterreichData from "./oberoesterreich.json";
 import salzburgData from "./salzburg.json";
+import steiermarkData from "./steiermark.json";
 
 // Return real data for specific states, mock data for others
 export const getMockConservationData = (state: string): ConservationData[] => {
@@ -122,6 +123,11 @@ export const getMockConservationData = (state: string): ConservationData[] => {
   // Return real data for Salzburg
   if (state.toLowerCase().includes("salzburg")) {
     return salzburgData as ConservationData[];
+  }
+  
+  // Return real data for Steiermark
+  if (state.toLowerCase().includes("steiermark") || state.toLowerCase().includes("styria")) {
+    return steiermarkData as ConservationData[];
   }
   
   // Mock data for other states
