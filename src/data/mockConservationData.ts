@@ -1,3 +1,4 @@
+  import wienData from "./wien.json";
 export interface ConservationData {
   image: string;
   plant: string;
