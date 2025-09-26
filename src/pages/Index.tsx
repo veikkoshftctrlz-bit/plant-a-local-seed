@@ -55,7 +55,7 @@ const Index = () => {
           <header className="container mx-auto px-4 py-6">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <h1 className="text-2xl font-bold text-foreground font-digital">OtherLife</h1>
+                <h1 className="text-2xl font-bold text-foreground font-digital">SEEDLE</h1>
               </div>
               <button
                 onClick={resetSearch}
@@ -78,7 +78,7 @@ const Index = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 {/* Company Info */}
                 <div className="space-y-4">
-                  <h3 className="text-lg font-bold text-white font-digital">OtherLife</h3>
+                  <h3 className="text-lg font-bold text-white font-digital">SEEDLE</h3>
                   <p className="text-white/70 text-sm">
                     Conservation data platform for local plant species and biodiversity tracking.
                   </p>
