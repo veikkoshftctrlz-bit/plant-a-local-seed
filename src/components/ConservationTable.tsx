@@ -1,8 +1,10 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { ExternalLink, AlertTriangle, CheckCircle2 } from "lucide-react";
+import { ExternalLink, AlertTriangle, CheckCircle2, ImageIcon } from "lucide-react";
 import { ConservationData } from "@/data/mockConservationData";
+import { useImages } from "@/contexts/ImageContext";
+import { useEffect } from "react";
 
 interface ConservationTableProps {
   postcode: string;
@@ -17,6 +19,20 @@ const endangermentColors = {
 };
 
 const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
+  const { images: plantImages, loadingImages, loadImages } = useImages();
+
+  // Load images for all plants when data changes
+  useEffect(() => {
+    if (data.length === 0) return;
+    
+    const plantsWithImages = data.map(item => ({
+      plant: item.plant,
+      image: item.image
+    }));
+    
+    loadImages(plantsWithImages);
+  }, [data, loadImages]);
+
   return (
     <div className="w-full max-w-7xl mx-auto space-y-6">
       <Card className="bg-white border-2 border-black relative overflow-hidden">
@@ -48,13 +64,28 @@ const ConservationTable = ({ postcode, data }: ConservationTableProps) => {
           >
             {/* Image */}
             <div className="p-4 text-center">
-              {item.image ? (
-                <img src={item.image} alt={item.plant} className="w-12 h-12 object-cover mx-auto border border-black" />
-              ) : (
-                <div className="w-12 h-12 bg-gray-200 border border-black mx-auto flex items-center justify-center text-xs text-gray-500">
-                  IMG
+              {loadingImages[item.plant] ? (
+                <div className="w-24 h-24 bg-gray-200 border border-black mx-auto flex items-center justify-center text-xs text-gray-500 animate-pulse">
+                  <ImageIcon className="w-8 h-8" />
                 </div>
-              )}
+              ) : plantImages[item.plant] ? (
+                <img 
+                  src={plantImages[item.plant]} 
+                  alt={item.plant} 
+                  className="w-24 h-24 object-cover mx-auto border border-black rounded-sm"
+                  onError={(e) => {
+                    // Fallback to placeholder if image fails to load
+                    const target = e.target as HTMLImageElement;
+                    target.style.display = 'none';
+                    target.nextElementSibling?.classList.remove('hidden');
+                  }}
+                />
+              ) : null}
+              
+              {/* Fallback placeholder - shown when no image or image fails */}
+              <div className={`w-24 h-24 bg-gray-200 border border-black mx-auto flex items-center justify-center text-xs text-gray-500 ${plantImages[item.plant] ? 'hidden' : ''}`}>
+                <ImageIcon className="w-8 h-8" />
+              </div>
             </div>
 
             {/* Plant */}

@@ -1,0 +1,218 @@
+[
+  {
+    "image": "",
+    "plant": "Aristolochia clematitis – Birthwort",
+    "dependent_species": "Zerynthia polyxena – Southern festoon",
+    "status": "EN",
+    "description": "Caterpillars feed exclusively on birthwort; in Burgenland the butterfly is tied to warm vineyard margins and field edges in the Pannonian lowlands (Seewinkel/Leithagebirge), very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/osterr.-ostind.-ingwer-aristolochia-clematitis.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana cruciata – Cross gentian",
+    "dependent_species": "Phengaris arion – Large blue",
+    "status": "CR",
+    "description": "Eggs laid on cross gentian; later instars complete development in Myrmica ant nests. In Burgenland confined to very warm calcareous/loess dry grasslands (Leitha Hills, vineyard slopes), critically endangered and highly local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/kreuz-enzian-gentiana-cruciata.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris teleius – Scarce large blue",
+    "status": "EN",
+    "description": "Butterfly oviposits on great burnet; larvae later develop in Myrmica nests. In Burgenland localized in later‑mown wet meadows of the Seewinkel and backwaters around Lake Neusiedl.",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Sanguisorba officinalis – Great burnet",
+    "dependent_species": "Phengaris nausithous – Dusky large blue",
+    "status": "EN",
+    "description": "Strong dependence on great burnet and specific Myrmica ants; in Burgenland very local in lowland wet meadows with late mowing (Seewinkel fen margins).",
+    "seed_link": "https://www.jelitto.com/en/german-names/grosser-wiesenknopf-sanguisorba-officinalis.html"
+  },
+  {
+    "image": "",
+    "plant": "Gentiana pneumonanthe – Marsh gentian",
+    "dependent_species": "Phengaris alcon – Alcon blue",
+    "status": "EN",
+    "description": "Caterpillars start in gentian buds, then finish in Myrmica ant nests; in Burgenland very local in wet heaths and fen remnants on sandy soils, threatened by drainage.",
+    "seed_link": "https://www.jelitto.com/en/german-names/lungen-enzian-gentiana-pneumonanthe.html"
+  },
+  {
+    "image": "",
+    "plant": "Hippocrepis comosa – Horseshoe vetch",
+    "dependent_species": "Polyommatus bellargus – Adonis blue",
+    "status": "EN",
+    "description": "Larvae feed on horseshoe vetch; in Burgenland restricted to short‑turf calcareous steppe grasslands and south‑facing banks (Leithagebirge), very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/hufeisenklee-hippocrepis-comosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Onobrychis viciifolia – Sainfoin",
+    "dependent_species": "Zygaena carniolica – Eastern burnet",
+    "status": "EN",
+    "description": "Larvae rely on sainfoin in warm, nutrient‑poor meadows; in Burgenland on steppe slopes and vineyard verges, highly localized.",
+    "seed_link": "https://www.jelitto.com/en/german-names/esparsette-onobrychis-viciifolia.html"
+  },
+  {
+    "image": "",
+    "plant": "Lotus dorycnium (syn. Dorycnium pentaphyllum) – Prostrate trefoil",
+    "dependent_species": "Zygaena ephialtes – Variable burnet",
+    "status": "EN",
+    "description": "A key larval host for the variable burnet on warm steppe grasslands and rail embankments in Burgenland; keep sites open and short‑sward.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dorycnium-lotus-dorycnium.html"
+  },
+  {
+    "image": "",
+    "plant": "Thymus pulegioides – Large‑thyme",
+    "dependent_species": "Zygaena purpuralis – Transparent burnet (thyme burnet)",
+    "status": "EN",
+    "description": "Larvae feed on thyme; in Burgenland on open steppe grasslands and rocky banks, threatened by scrub encroachment—excellent for sunny gardens and green roofs.",
+    "seed_link": "https://www.jelitto.com/en/german-names/quendel-thymus-pulegioides.html"
+  },
+  {
+    "image": "",
+    "plant": "Helianthemum nummularium – Common rock‑rose",
+    "dependent_species": "Zygaena fausta – Burnet moth (rock‑rose specialist)",
+    "status": "CR",
+    "description": "Larvae on rock‑rose; in Burgenland only on the warmest calcareous dry grasslands, critically endangered and extremely local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/sonnenroeschen-helianthemum-nummularium.html"
+  },
+  {
+    "image": "",
+    "plant": "Anthyllis vulneraria – Kidney vetch",
+    "dependent_species": "Cupido minimus – Small blue",
+    "status": "VU",
+    "description": "Caterpillars develop in kidney vetch flower heads; in Burgenland on sandy/calcareous grasslands and vineyard margins, patchy and declining; easy in sunny troughs.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wundklee-anthyllis-vulneraria.html"
+  },
+  {
+    "image": "",
+    "plant": "Astragalus glycyphyllos – Wild liquorice milkvetch",
+    "dependent_species": "Glaucopsyche alexis – Green‑underside blue",
+    "status": "EN",
+    "description": "Larvae on Astragalus and other Fabaceae; in Burgenland very local on warm shrub edges and dry grassland fringes; attractive foliage for naturalistic plantings.",
+    "seed_link": "https://www.jelitto.com/en/german-names/suessklee-astragalus-glycyphyllos.html"
+  },
+  {
+    "image": "",
+    "plant": "Stachys recta – Perennial yellow woundwort",
+    "dependent_species": "Chrysura cuprea – Ruby‑tailed wasp (parasite of Anthidium)",
+    "status": "VU",
+    "description": "Supports wool‑carder bees (Anthidium) which gather hairs from Stachys leaves; in Burgenland on steppe slopes and dry field margins, very local.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gelbe-ziest-stachys-recta.html"
+  },
+  {
+    "image": "",
+    "plant": "Knautia arvensis – Field scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic bee taking pollen from Knautia/Scabiosa; scattered on extensively managed meadows and orchard belts in Burgenland, threatened by early mowing and fertilization.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wiesen-witwenblume-knautia-arvensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Scabiosa columbaria – Small scabious",
+    "dependent_species": "Andrena hattorfiana – Large scabious mining bee",
+    "status": "EN",
+    "description": "Alternate core pollen plant; in Burgenland very local on nutrient‑poor calcareous grasslands and dry embankments (Leithagebirge foothills).",
+    "seed_link": "https://www.jelitto.com/en/german-names/tauben-skabiose-scabiosa-columbaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Succisa pratensis – Devil’s‑bit scabious",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "EN",
+    "description": "Oligolectic on Dipsacaceae; persists in wet meadows and fen edges in the Seewinkel; rare and scattered—needs late mowing and open sward.",
+    "seed_link": "https://www.jelitto.com/en/german-names/teufelsabbiss-succisa-pratensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Dipsacus fullonum – Wild teasel",
+    "dependent_species": "Andrena marginata – Scabious mining bee",
+    "status": "NT",
+    "description": "Late pollen source supporting A. marginata; scattered along ditches, riverbanks and rail land; popular for wildlife planting in dry soils.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wilde-karde-dipsacus-fullonum.html"
+  },
+  {
+    "image": "",
+    "plant": "Lythrum salicaria – Purple loosestrife",
+    "dependent_species": "Melitta nigricans – Purple loosestrife silk bee",
+    "status": "VU",
+    "description": "Oligolectic bee on Lythrum; in Burgenland along slow waters, reed margins and ditches (Seewinkel), local; thrives in consistently moist spots.",
+    "seed_link": "https://www.jelitto.com/en/german-names/blut-weiderich-lythrum-salicaria.html"
+  },
+  {
+    "image": "",
+    "plant": "Lysimachia vulgaris – Yellow loosestrife",
+    "dependent_species": "Macropis europaea – Yellow loosestrife oil bee",
+    "status": "NT",
+    "description": "Oil‑collecting bee strictly bound to Lysimachia; in Burgenland along canals, wet meadows and fen edges, threatened by overgrowth and drainage; good for pond margins.",
+    "seed_link": "https://www.jelitto.com/en/german-names/gilbweiderich-lysimachia-vulgaris.html"
+  },
+  {
+    "image": "",
+    "plant": "Echium vulgare – Viper’s bugloss",
+    "dependent_species": "Osmia adunca – Viper’s bugloss mason bee",
+    "status": "NT",
+    "description": "Specialist pollen bee (oligolectic on Echium); widespread on gravelly/sandy lots, quarries and road verges in Burgenland, but patchy; great for hot balconies in large pots.",
+    "seed_link": "https://www.jelitto.com/en/german-names/natternkopf-echium-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Origanum vulgare – Wild marjoram",
+    "dependent_species": "Bombus humilis – Brown‑banded carder bee",
+    "status": "VU",
+    "description": "Key nectar/pollen in species‑rich margins; scattered on sunny vineyard edges and dry banks; easy culinary herb that benefits long‑tongued bumblebees.",
+    "seed_link": "https://www.jelitto.com/en/german-names/dost-origanum-vulgare.html"
+  },
+  {
+    "image": "",
+    "plant": "Salvia nemorosa – Woodland sage",
+    "dependent_species": "Anthophora quadrimaculata – Salvia potter bee",
+    "status": "NT",
+    "description": "Native to Pannonian regions; deep corollas favored by long‑tongued bees. In Burgenland along warm, dry edges and steppe slopes; excellent garden perennial.",
+    "seed_link": "https://www.jelitto.com/en/german-names/steppen-salbei-salvia-nemorosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Campanula bononiensis – Adriatic bellflower",
+    "dependent_species": "Chelostoma rapunculi – Bellflower scissor bee",
+    "status": "NT",
+    "description": "Oligolectic bee collects Campanula pollen; on warm steppe slopes and dry field edges; tall, architectural bellflower for sunny borders.",
+    "seed_link": "https://www.jelitto.com/en/german-names/glockenblume-campanula-bononiensis.html"
+  },
+  {
+    "image": "",
+    "plant": "Centaurea scabiosa – Greater knapweed",
+    "dependent_species": "Aglaope infausta – Knapweed geometer",
+    "status": "NT",
+    "description": "Supports specialist bees and some moth larvae; in Burgenland local on dry embankments and calcareous grasslands; long‑lived and ornamental.",
+    "seed_link": "https://www.jelitto.com/en/german-names/skabiosen-flockenblume-centaurea-scabiosa.html"
+  },
+  {
+    "image": "",
+    "plant": "Rumex hydrolapathum – Great water dock",
+    "dependent_species": "Lycaena dispar – Large copper",
+    "status": "EN",
+    "description": "Larvae on large docks in wetlands; in Burgenland along marsh edges, ditches and wet meadows of the Seewinkel; populations decline with drainage—keep high water tables.",
+    "seed_link": "https://www.jelitto.com/en/german-names/ampfer-rumex-hydrolapathum.html"
+  },
+  {
+    "image": "",
+    "plant": "Viola tricolor – Wild pansy (balcony‑friendly)",
+    "dependent_species": "Boloria dia – Weaver’s fritillary",
+    "status": "VU",
+    "description": "Larvae on violets; in Burgenland on sandy poor grasslands and dry urban banks with Viola; thrives in planters and window boxes for months of bloom.",
+    "seed_link": "https://www.jelitto.com/en/german-names/stiefmuetterchen-viola-tricolor.html"
+  },
+  {
+    "image": "",
+    "plant": "Fragaria vesca – Wild strawberry (balcony‑friendly)",
+    "dependent_species": "Pyrgus malvae – Grizzled skipper (nectar/structure association)",
+    "status": "NT",
+    "description": "Provides nectar and low, open structure; skippers need flower‑rich edges in Burgenland. Excellent for containers and balcony troughs; edible fruits.",
+    "seed_link": "https://www.jelitto.com/en/german-names/wald-erdbeere-fragaria-vesca.html"
+  }
+]
